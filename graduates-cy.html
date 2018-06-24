@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title></title>
+    <meta charset='utf-8' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.racunarstvo.matf.bg.ac.rs/novosti.rss.php?locale=sr_RS"
+    />
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext,cyrillic' rel='stylesheet'
+        type='text/css'>
+
+    <link rel='stylesheet' media='screen' href='/assets/styles/normalize.css' />
+
+    <!--[if !IE]><!-->
+    <link rel='stylesheet' media='screen' href='/assets/styles/common.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='/assets/styles/floating-logo.css' />
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='/assets/styles/sr_RS/floating-logo.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='/assets/styles/desktop-wide.css' />
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='/assets/styles/sr_RS/desktop-wide.css' />
+
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='/assets/styles/mobile-landscape.css'
+    />
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='/assets/styles/sr_RS/mobile-landscape.css'
+    />
+
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='/assets/styles/mobile-portrait.css' />
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='/assets/styles/sr_RS/mobile-portrait.css' />
+    <!--<![endif]-->
+
+
+    <!-- Scripts -->
+    <script src='/assets/scripts/jquery-2.1.3.js'></script>
+    <script src='/assets/scripts/ui.js'></script>
+
+    <!--  Podesi klik preko opisa klase -->
+    <script>
+        $(document).ready(function () {
+            $('[class^=opis]').click(function () {
+                $('#toogle-' + this.className).toggle();
+                slideshow_init();
+            });
+        });
+    </script>
+
+    <!-- Addons -->
+    <link rel='stylesheet' media='screen' href='/assets/addons/slideshow/main.css' />
+    <script src='/assets/addons/slideshow/main.js'></script>
+    <script>
+        $(document).ready(function () {
+            slideshow_init();
+        });
+    </script>
+</head>
+
+<body onload="ui.init();">
+    <!-- Ucitaj delove strane -->
+    <script>
+        $(function () {
+            // ucitaj meni na vrhu
+            $("#navigation").load("p-navigation-cy.html");
+            // ucitaj meni na podnozju
+            $("#footer").load("p-footer-cy.html");
+        });
+    </script>
+
+    <div id="content">
+        <!--[if IE]>
+    <iframe src="badie.html" width="100%" height="128" border="0"></iframe>
+    <![endif]-->
+        <div id="matf_logo">
+            <a href="http://www.matf.bg.ac.rs" target="_blank">
+                <img src="/assets/images/sr_RS/matf-logo.png" />
+            </a>
+        </div>
+        <div id="title">
+            <h2>
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"> Department for </a>
+            </h2>
+            <h1>
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php">
+                    <span>Computer science and</span>
+                    <span>informatics</span>
+                </a>
+            </h1>
+        </div>
+
+        <div id="navigation">
+        </div>
+
+        <div id="page">
+            <ol>
+                <li>
+                    <a href="/Graduates/Dizajn i implementacija Android aplikacije za promociju fakulteta.pdf" target="blank">
+                        Dizajn i implementacija Android aplikacije za promociju fakulteta
+                    </a>
+                </li>
+                <li>
+                    <a href="/Graduates/Elektronsko obrazovanje i Moodle kao obrazovna platforma.pdf" target="blank">
+                        Elektronsko obrazovanje i Moodle kao obrazovna platforma
+                    </a>
+                </li>
+                <li>
+                    <a href="/Graduates/Izgradnja energetski efikasnog ugradjenog racunarskog sistema zasnovanog na ARM arhitekturi.pdf" target="blank">
+                        Izgradnja energetski efikasnog ugradjenog racunarskog sistema zasnovanog na ARM arhitekturi
+                    </a>
+                </li>
+                <li>
+                    <a href="/Graduates/Primjena paralelnog programiranja na obradu digitalnih fotografija.pdf" target="blank">
+                        Primjena paralelnog programiranja na obradu digitalnih fotografija
+                    </a>
+                </li>
+            </ol>
+        </div>
+
+        <!-- <div id="testing-output"><span> style</span></div> -->
+        <div id="presentation_mode">
+            <!-- This is used from JS to test the presentation size -->
+        </div>
+        <div id="footer">
+        </div>
+</body>
+
+</html>
