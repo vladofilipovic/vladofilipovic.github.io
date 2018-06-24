@@ -1,0 +1,87 @@
+/* Calculating other colors */
+body {
+  background-color: white;
+  background-image: url(http://www.racunarstvo.matf.bg.ac.rs/_assets/images/background-top.png);
+  background-position: left 50px;
+  padding-top: 50px;
+  background-repeat: repeat-x; }
+
+div#content div#matf_logo {
+  text-align: center; }
+div#content div#title {
+  color: black;
+  text-align: center; }
+  div#content div#title a {
+    color: black;
+    text-decoration: none; }
+  div#content div#title h2, div#content div#title h1 {
+    margin: 0;
+    padding: 0; }
+  div#content div#title h2 {
+    text-transform: uppercase;
+    font-size: 15px; }
+  div#content div#title h1 {
+    font-size: 32px; }
+    div#content div#title h1 span {
+      display: block; }
+div#content div#navigation .navigation_title {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  clear: left;
+  text-align: center;
+  padding-top: 16px; }
+  div#content div#navigation .navigation_title span#navigation_menu_title_text {
+    width: 100%; }
+    div#content div#navigation .navigation_title span#navigation_menu_title_text a {
+      padding: 16px 0; }
+div#content div#navigation ul.navigation_list {
+  list-style-type: none;
+  display: none;
+  background-color: #303030;
+  padding: 16px 0; }
+  div#content div#navigation ul.navigation_list ul {
+    padding: 0;
+    list-style-type: none; }
+  div#content div#navigation ul.navigation_list a {
+    color: gray !important;
+    text-decoration: none;
+    padding: 4px 0 !important;
+    padding-left: 16px !important;
+    display: block; }
+  div#content div#navigation ul.navigation_list a[href] {
+    color: white !important; }
+    div#content div#navigation ul.navigation_list a[href]:HOVER {
+      background-color: #686464 !important;
+      color: white; }
+  div#content div#navigation ul.navigation_list ul li a {
+    padding-left: 32px !important; }
+  div#content div#navigation ul.navigation_list li#navigation_section__language {
+    display: none !important; }
+    div#content div#navigation ul.navigation_list li#navigation_section__language img {
+      display: none !important; }
+div#content div#page div.image-full-width {
+  text-align: center; }
+  div#content div#page div.image-full-width p {
+    text-align: center; }
+  div#content div#page div.image-full-width img {
+    max-width: 100% !important; }
+div#content div#page div.image-columns-2 {
+  text-align: center; }
+  div#content div#page div.image-columns-2 div.image-columns-inner {
+    display: block;
+    margin: auto; }
+  div#content div#page div.image-columns-2 img {
+    display: block;
+    margin: 0 auto; }
+  div#content div#page div.image-columns-2 p {
+    text-align: center; }
+
+/* Footer */
+div#footer .content {
+  display: none; }
+
+div#presentation_mode {
+  width: 150px; }
+
+/*# sourceMappingURL=mobile-portrait.css.map */

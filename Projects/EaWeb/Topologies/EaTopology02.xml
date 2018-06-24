@@ -1,0 +1,45 @@
+<Topology xmlns="EaWebTopologiesSchema.xsd">
+	<Services>
+		<Service xmlns="EaWebTopologiesSchema.xsd">
+			<Id>1</Id>
+			<Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebSevice99/Main.asmx</Url>
+		</Service>
+		<Service xmlns="EaWebTopologiesSchema.xsd">
+			<Id>0</Id>
+			<Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebSevice/Main.asmx</Url>
+		</Service>
+		<Service xmlns="EaWebTopologiesSchema.xsd">
+			<Id>2</Id>
+			<Url>../EaWebSevice/Main.asmx</Url>
+		</Service>
+	</Services>
+	<UniDirectLinks>
+		<UniDirectLink xmlns="EaWebTopologiesSchema.xsd">
+			<From>0</From>
+			<To>0</To>
+			<Id>1</Id>
+		</UniDirectLink>
+		<UniDirectLink xmlns="EaWebTopologiesSchema.xsd">
+			<From>0</From>
+			<To>0</To>
+			<Id>2</Id>
+		</UniDirectLink>
+	</UniDirectLinks>
+	<BiDirectLinks>
+		<BiDirectLink xmlns="EaWebTopologiesSchema.xsd">
+			<One>0</One>
+			<Two>0</Two>
+			<Id>1</Id>
+		</BiDirectLink>
+		<BiDirectLink xmlns="EaWebTopologiesSchema.xsd">
+			<One>0</One>
+			<Two>0</Two>
+			<Id>2</Id>
+		</BiDirectLink>
+		<BiDirectLink xmlns="EaWebTopologiesSchema.xsd">
+			<One>0</One>
+			<Two>0</Two>
+			<Id>3</Id>
+		</BiDirectLink>
+	</BiDirectLinks>
+</Topology>

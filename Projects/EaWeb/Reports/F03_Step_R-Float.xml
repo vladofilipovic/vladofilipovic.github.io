@@ -1,0 +1,511 @@
+<?xml version='1.0'?><!--Report: Timestamp 2001 12 12 19:30:04:765 --><EaWebReport xmlns='EaWebReportsSchema.xsd'><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>1</CurrentGeneration><DeJongOffLine>985.19375</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>230</Miliseconds><Summary>00:00:00.2303312</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>2</CurrentGeneration><DeJongOffLine>495.771875</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>3</CurrentGeneration><DeJongOffLine>332.63125</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>4</CurrentGeneration><DeJongOffLine>251.0609375</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>5</CurrentGeneration><DeJongOffLine>202.11875</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>6</CurrentGeneration><DeJongOffLine>169.490625</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>220</Miliseconds><Summary>00:00:00.2203168</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>7</CurrentGeneration><DeJongOffLine>146.184821428572</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>8</CurrentGeneration><DeJongOffLine>128.70546875</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>9</CurrentGeneration><DeJongOffLine>115.110416666667</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>10</CurrentGeneration><DeJongOffLine>104.234375</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>11</CurrentGeneration><DeJongOffLine>95.3357954545455</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>12</CurrentGeneration><DeJongOffLine>87.9203125</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>13</CurrentGeneration><DeJongOffLine>81.6456730769231</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>14</CurrentGeneration><DeJongOffLine>76.2674107142857</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>15</CurrentGeneration><DeJongOffLine>71.60625</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>16</CurrentGeneration><DeJongOffLine>67.527734375</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>17</CurrentGeneration><DeJongOffLine>63.929044117647</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>18</CurrentGeneration><DeJongOffLine>60.7302083333333</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>19</CurrentGeneration><DeJongOffLine>57.8680921052631</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>20</CurrentGeneration><DeJongOffLine>55.2921875</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>21</CurrentGeneration><DeJongOffLine>52.9616071428571</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>22</CurrentGeneration><DeJongOffLine>50.8428977272727</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>23</CurrentGeneration><DeJongOffLine>48.9084239130434</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>24</CurrentGeneration><DeJongOffLine>47.13515625</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>25</CurrentGeneration><DeJongOffLine>45.50375</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>26</CurrentGeneration><DeJongOffLine>43.9978365384615</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>27</CurrentGeneration><DeJongOffLine>42.6034722222222</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>28</CurrentGeneration><DeJongOffLine>41.3087053571428</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>29</CurrentGeneration><DeJongOffLine>40.1032327586206</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>30</CurrentGeneration><DeJongOffLine>38.9781249999999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>31</CurrentGeneration><DeJongOffLine>37.9256048387096</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>32</CurrentGeneration><DeJongOffLine>36.9388671874999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>33</CurrentGeneration><DeJongOffLine>36.0119318181818</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>34</CurrentGeneration><DeJongOffLine>35.1395220588235</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>35</CurrentGeneration><DeJongOffLine>34.3169642857142</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>36</CurrentGeneration><DeJongOffLine>33.5401041666666</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>37</CurrentGeneration><DeJongOffLine>32.8052364864864</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>38</CurrentGeneration><DeJongOffLine>32.1090460526315</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>39</CurrentGeneration><DeJongOffLine>31.4485576923076</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>40</CurrentGeneration><DeJongOffLine>30.8210937499999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>41</CurrentGeneration><DeJongOffLine>30.224237804878</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>42</CurrentGeneration><DeJongOffLine>29.6558035714285</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>43</CurrentGeneration><DeJongOffLine>29.1138081395348</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>44</CurrentGeneration><DeJongOffLine>28.5964488636363</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>45</CurrentGeneration><DeJongOffLine>28.1020833333333</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>46</CurrentGeneration><DeJongOffLine>27.6292119565217</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>47</CurrentGeneration><DeJongOffLine>27.1764627659574</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>48</CurrentGeneration><DeJongOffLine>26.7425781249999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>180</Miliseconds><Summary>00:00:00.1802592</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>49</CurrentGeneration><DeJongOffLine>26.3264030612244</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>50</CurrentGeneration><DeJongOffLine>25.9268749999999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>51</CurrentGeneration><DeJongOffLine>25.5430147058823</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>52</CurrentGeneration><DeJongOffLine>25.1739182692307</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>53</CurrentGeneration><DeJongOffLine>24.8187499999999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>54</CurrentGeneration><DeJongOffLine>24.476736111111</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>220</Miliseconds><Summary>00:00:00.2203168</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>55</CurrentGeneration><DeJongOffLine>24.147159090909</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>56</CurrentGeneration><DeJongOffLine>23.8293526785714</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>57</CurrentGeneration><DeJongOffLine>23.522697368421</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>58</CurrentGeneration><DeJongOffLine>23.2266163793103</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>59</CurrentGeneration><DeJongOffLine>22.9405720338982</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>60</CurrentGeneration><DeJongOffLine>22.6640624999999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>61</CurrentGeneration><DeJongOffLine>22.3966188524589</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>62</CurrentGeneration><DeJongOffLine>22.1378024193548</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>63</CurrentGeneration><DeJongOffLine>21.8872023809523</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>64</CurrentGeneration><DeJongOffLine>21.6444335937499</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>65</CurrentGeneration><DeJongOffLine>21.4091346153845</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>66</CurrentGeneration><DeJongOffLine>21.1809659090908</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>67</CurrentGeneration><DeJongOffLine>20.9596082089551</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>68</CurrentGeneration><DeJongOffLine>20.7447610294117</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>69</CurrentGeneration><DeJongOffLine>20.5361413043478</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>70</CurrentGeneration><DeJongOffLine>20.3334821428571</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>71</CurrentGeneration><DeJongOffLine>20.1365316901408</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>72</CurrentGeneration><DeJongOffLine>19.9450520833333</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>73</CurrentGeneration><DeJongOffLine>19.7588184931506</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>74</CurrentGeneration><DeJongOffLine>19.5776182432432</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>75</CurrentGeneration><DeJongOffLine>19.4012499999999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>76</CurrentGeneration><DeJongOffLine>19.2295230263157</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>77</CurrentGeneration><DeJongOffLine>19.0622564935064</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>78</CurrentGeneration><DeJongOffLine>18.8992788461538</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>79</CurrentGeneration><DeJongOffLine>18.7404272151898</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>80</CurrentGeneration><DeJongOffLine>18.5855468749999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>81</CurrentGeneration><DeJongOffLine>18.4344907407407</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>82</CurrentGeneration><DeJongOffLine>18.2871189024389</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>83</CurrentGeneration><DeJongOffLine>18.143298192771</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>84</CurrentGeneration><DeJongOffLine>18.0029017857142</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>85</CurrentGeneration><DeJongOffLine>17.8658088235293</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>86</CurrentGeneration><DeJongOffLine>17.7319040697674</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>87</CurrentGeneration><DeJongOffLine>17.6010775862068</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>88</CurrentGeneration><DeJongOffLine>17.4732244318181</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>89</CurrentGeneration><DeJongOffLine>17.3482443820224</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>90</CurrentGeneration><DeJongOffLine>17.2260416666666</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>91</CurrentGeneration><DeJongOffLine>17.1065247252747</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>92</CurrentGeneration><DeJongOffLine>16.9896059782608</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>210</Miliseconds><Summary>00:00:00.2103024</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>93</CurrentGeneration><DeJongOffLine>16.8752016129032</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>94</CurrentGeneration><DeJongOffLine>16.7632313829787</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>95</CurrentGeneration><DeJongOffLine>16.6536184210526</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>96</CurrentGeneration><DeJongOffLine>16.5462890624999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>97</CurrentGeneration><DeJongOffLine>16.4411726804123</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>98</CurrentGeneration><DeJongOffLine>16.3382015306122</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>99</CurrentGeneration><DeJongOffLine>16.2373106060605</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>200</Miliseconds><Summary>00:00:00.2002880</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>100</CurrentGeneration><DeJongOffLine>16.1384374999999</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>101</CurrentGeneration><DeJongOffLine>16.0415222772277</DeJongOffLine><DeJongOnLine>1016</DeJongOnLine><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>190</Miliseconds><Summary>00:00:00.1902736</Summary></TimeInIteration></AfterIteration><AfterAlgorithm><BestAll><Data>0.231010708599822 0.262299787375284 0.0667864894805413 0.0725369565526661 0.057948696919693   
+</Data><IsValid>True
+</IsValid><ObjectionValue>-16
+</ObjectionValue><FitnessValue>1016
+</FitnessValue><ProblemArguments> -2.75445034393782 -2.43405017727709 -4.43610634771926 -4.3772215649007 -4.52660534354234
+</ProblemArguments></BestAll><CurrentGeneration>101</CurrentGeneration><ReportEaParameters><EaWebParams xmlns='EaWebParametersSchema.xsd'><Communication><Type>EaSequential</Type><TopologyFile>Topologies/EaTopology01.xml</TopologyFile><TopologyXml></TopologyXml><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService><RequestId>VLADO1-D:\Inetpub\wwwroot\EaWebApplication-rzryoefnfe32mo45mbuojv45</RequestId></Communication><Crossover><Type>CrossoverFloatArithmeticGeometric</Type><Probability>0.95</Probability><UniformMaskProbability>0</UniformMaskProbability></Crossover><Finish><ItemsOr> FinishItemNumberOfGenerations</ItemsOr><ItemsAnd> FinishItemIdle</ItemsAnd><NumberOfGenerations>100</NumberOfGenerations><BestItemUnchangedFor>1</BestItemUnchangedFor><BestFitnessUnchangedFor>1</BestFitnessUnchangedFor><ExecutionTimeDays>0</ExecutionTimeDays><ExecutionTimeHours>0</ExecutionTimeHours><ExecutionTimeMinutes>2</ExecutionTimeMinutes><ExecutionTimeSeconds>0</ExecutionTimeSeconds><ExecutionTimeMiliseconds>0</ExecutionTimeMiliseconds></Finish><Fitness><Type>FitnessSubtractFrom</Type><Value>1000</Value><RemoveDuplicates>True</RemoveDuplicates></Fitness><Init><Type>InitFloat</Type></Init><Instance><Type>InstanceFunctionOptimizationXmlFloat</Type></Instance><Mutation><Type>MutationFloatInvert</Type><Probability>0.005</Probability></Mutation><NewGeneration><UseElitistStrategy>True</UseElitistStrategy><EliteNumber>1</EliteNumber></NewGeneration><Population><ItemType>ItemFloat</ItemType><ItemLenght>5</ItemLenght><Count>160</Count></Population><Problem><Type>ProblemFunctionOptimizationXml</Type><InputFile>Problems/F03_Step.xml</InputFile><UseInput>True</UseInput></Problem><RandomGenerator><Type>RandomGenIntrisic</Type><UsePredefiniedSeed>True</UsePredefiniedSeed><Seed>17</Seed></RandomGenerator><ReportItems><AA> ReportItemBestAll ReportItemCurrentGeneration ReportItemEaParameters ReportItemProblemInput ReportItemTimeInAlgorithm</AA><AI> ReportItemBestAll ReportItemCurrentGeneration ReportItemDeJongOffLine ReportItemDeJongOnLine ReportItemTimeInIteration</AI><ASCrossover> ReportItemIdle</ASCrossover><ASFinish> ReportItemIdle</ASFinish><ASFitness> ReportItemIdle</ASFitness><ASInstance> ReportItemIdle</ASInstance><ASMutation> ReportItemIdle</ASMutation><ASProblem> ReportItemIdle</ASProblem><ASSelection> ReportItemIdle</ASSelection><Url>Reports/F03_Step_R-Float.xml</Url></ReportItems><Selection><Type>SelectionRoulette</Type><Probability>0.97</Probability><UseDirectlyPassed>False</UseDirectlyPassed><PassedNumber>0</PassedNumber><RankOfBest>13</RankOfBest><RankOfWorst>7</RankOfWorst><Truncation>0.8</Truncation><Exponent>0.34</Exponent><TournamentSize>3</TournamentSize><FineGrainedTournamentSize>5.6</FineGrainedTournamentSize></Selection></EaWebParams></ReportEaParameters><ProblemUseInput>True</ProblemUseInput><ProblemArgumentsXml><!--Problem definition in file Problems/F03_Step.xml --><EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">	<Problem>		<Description>F3 - Step fuction</Description>		<Dimension>5</Dimension>		<Interval>			<Id>0</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Interval>			<Id>1</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Interval>			<Id>2</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Interval>			<Id>3</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Interval>			<Id>4</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Evaluate>			<Condition>				<Domain>					<ConstantBool>						true					</ConstantBool>				</Domain>				<Expression>					<Sum>						<LowLimit>							<Constant>								0							</Constant>						</LowLimit>						<HiLimit>							<Constant>								4							</Constant>						</HiLimit>						<CurIndex>							i						</CurIndex>						<Item>							<Floor>								<Argument>									<Index> i </Index>								</Argument>							</Floor>						</Item>					</Sum>				</Expression>			</Condition>		</Evaluate>	</Problem></EaProblemParameters></ProblemArgumentsXml><TimeInAlgorithm><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>19</Seconds><Miliseconds>888</Miliseconds><Summary>00:00:19.8885984</Summary></TimeInAlgorithm></AfterAlgorithm></EaWebReport>

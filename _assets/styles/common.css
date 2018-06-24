@@ -1,0 +1,118 @@
+/* Calculating other colors */
+body {
+  background-color: white;
+  background-image: url(http://www.racunarstvo.matf.bg.ac.rs/_assets/images/background-top.png);
+  background-position: top;
+  background-repeat: repeat-x;
+  color: #333;
+  text-align: center;
+  overflow-x: hidden;
+  font-family: "Open Sans", sans-serif; }
+
+div#content {
+  padding: 16px;
+  margin: 0 auto;
+  text-align: left; }
+  div#content div#page {
+    min-height: 400px; }
+    div#content div#page h1, div#content div#page h2, div#content div#page h3, div#content div#page h4 {
+      clear: left; }
+    div#content div#page a {
+      color: #8e1818;
+      text-decoration: none; }
+      div#content div#page a:HOVER {
+        text-decoration: underline; }
+
+/* Footer */
+div#footer {
+  clear: both;
+  border-top: 1px solid #DDD;
+  border-bottom: 1px solid #DDD;
+  background-color: #EEE;
+  color: #666;
+  font-size: 0.8em;
+  padding: 16px; }
+  div#footer a {
+    color: #666;
+    text-decoration: none; }
+    div#footer a:HOVER {
+      color: #4d4d4d;
+      text-decoration: none; }
+  div#footer div.content {
+    margin: 0 auto;
+    text-align: left; }
+    div#footer div.content li {
+      list-style-type: none; }
+    div#footer div.content ul.footer_section_items {
+      margin: 0;
+      padding: 0; }
+    div#footer div.content li.footer_section a.footer_section_title {
+      font-weight: bold;
+      display: block;
+      margin-bottom: 4px;
+      height: 20px !important; }
+  div#footer p.copyright {
+    text-align: center;
+    padding-top: 2em;
+    clear: both; }
+
+/* Custom content */
+ul.personnel li {
+  text-align: center;
+  display: block;
+  width: 140px;
+  height: 200px;
+  float: left;
+  margin-right: 32px; }
+  ul.personnel li img {
+    width: 90px;
+    height: 120px; }
+
+table.osnovno_master {
+  margin-bottom: 32px; }
+  table.osnovno_master .naslov {
+    font-weight: bold; }
+  table.osnovno_master .hidden {
+    border: 1px solid silver;
+    display: none; }
+    table.osnovno_master .hidden td {
+      padding: 16px; }
+  table.osnovno_master tr.prijava td,
+  table.osnovno_master tr.izvestaj td,
+  table.osnovno_master tr.rad td {
+    margin-left: -8px; }
+    table.osnovno_master tr.prijava td a,
+    table.osnovno_master tr.izvestaj td a,
+    table.osnovno_master tr.rad td a {
+      padding: 0;
+      margin: 0; }
+    table.osnovno_master tr.prijava td span.naziv,
+    table.osnovno_master tr.izvestaj td span.naziv,
+    table.osnovno_master tr.rad td span.naziv {
+      padding-left: 8px; }
+
+tr.kandidat .ime {
+  font-weight: bold; }
+
+tr.komisija .naziv, tr .naziv {
+  color: gray; }
+
+tr.tema {
+  font-weight: bold;
+  color: #550000; }
+
+tr.prijava a,
+tr.izvestaj a,
+tr.rad a {
+  padding-right: 8px; }
+
+p.news_date .caption {
+  padding: 0 8px;
+  font-weight: bold; }
+p.news_date .date {
+  float: right; }
+
+div#presentation_mode {
+  width: 100px; }
+
+/*# sourceMappingURL=common.css.map */

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Batch xmlns="EaWebBatchParametersSchema.xsd">
+	<Sequence>
+		<Id>0</Id>
+		<ParameterUrl>Parameters/EaWeb01.xml</ParameterUrl>
+		<Repeat>5</Repeat>
+		<Report>ReportsBatch/EaWeb01_R-10.xml</Report>
+	</Sequence>
+	<Sequence>
+		<Id>1</Id>
+		<ParameterUrl>Parameters/EaWeb08.xml</ParameterUrl>
+		<Repeat>10</Repeat>
+		<ReportUrl>ReportsBatch/EaWeb08_R-10.xml</ReportUrl>
+	</Sequence>
+</Batch>

@@ -1,0 +1,113 @@
+/* Calculating other colors */
+div#content {
+  max-width: 800px; }
+  div#content div#matf_logo {
+    float: left;
+    margin-right: 16px;
+    margin-top: -21px;
+    margin-bottom: 21px; }
+  div#content div#title {
+    color: white; }
+    div#content div#title a {
+      color: white;
+      text-decoration: none; }
+    div#content div#title h2, div#content div#title h1 {
+      margin: 0;
+      padding: 0; }
+    div#content div#title h2 {
+      padding-top: 75px;
+      text-transform: uppercase;
+      font-size: 15px;
+      height: 24px; }
+    div#content div#title h1 {
+      font-size: 32px;
+      height: 53px; }
+  div#content div#navigation h2.navigation_title {
+    display: none; }
+  div#content div#navigation ul.navigation_list {
+    margin: 0;
+    padding: 0;
+    margin-top: 8px;
+    list-style-type: none; }
+    div#content div#navigation ul.navigation_list li {
+      float: left;
+      margin-right: 16px;
+      margin-left: -8px;
+      padding: 0 8px; }
+      div#content div#navigation ul.navigation_list li a {
+        text-decoration: none;
+        color: #333;
+        padding-bottom: 4px;
+        font-size: 1.1em; }
+        div#content div#navigation ul.navigation_list li a.navigation_section_title {
+          background-image: url(http://www.racunarstvo.matf.bg.ac.rs/_assets/images/navigation-arrow-down.png);
+          background-position: bottom;
+          background-repeat: no-repeat; }
+        div#content div#navigation ul.navigation_list li a:HOVER, div#content div#navigation ul.navigation_list li a.navigation_section_title_active {
+          border-bottom: 4px solid #686464;
+          color: #8e1818;
+          background: none; }
+    div#content div#navigation ul.navigation_list ul.navigation_section_items {
+      list-style-type: none;
+      position: absolute;
+      background-color: #303030 !important;
+      color: black;
+      padding: 0.5em 0;
+      margin: 0;
+      margin-top: 7px;
+      visibility: hidden;
+      opacity: 0; }
+      div#content div#navigation ul.navigation_list ul.navigation_section_items li {
+        float: none;
+        display: block;
+        margin: 0;
+        padding: 0; }
+        div#content div#navigation ul.navigation_list ul.navigation_section_items li a {
+          padding: 0 16px;
+          font-size: 1em !important;
+          display: block;
+          color: white;
+          border: none; }
+          div#content div#navigation ul.navigation_list ul.navigation_section_items li a:HOVER {
+            background-color: #686464 !important;
+            color: white; }
+    div#content div#navigation ul.navigation_list li#navigation_section__language {
+      position: absolute;
+      right: 0; }
+      div#content div#navigation ul.navigation_list li#navigation_section__language ul#navigation_section_items__language {
+        position: absolute;
+        width: 250px;
+        right: 0;
+        text-align: right; }
+  div#content div#page div.image-full-width {
+    text-align: center; }
+    div#content div#page div.image-full-width p {
+      text-align: center; }
+    div#content div#page div.image-full-width img {
+      max-width: 80%; }
+  div#content div#page div.image-columns-2 {
+    text-align: center; }
+    div#content div#page div.image-columns-2 div.image-columns-inner {
+      width: 550px;
+      display: block;
+      margin: auto; }
+    div#content div#page div.image-columns-2 p {
+      text-align: center; }
+
+/* Footer */
+div#footer div.content {
+  max-width: 800px; }
+  div#footer div.content ul.footer_section_items {
+    height: 8em; }
+  div#footer div.content li.footer_section {
+    float: left;
+    width: 25%; }
+  div#footer div.content li#footer_section__studije {
+    width: 30%; }
+  div#footer div.content li#footer_section__katedra {
+    width: 19%; }
+
+div#presentation_mode {
+  width: 250px; }
+
+/*# sourceMappingURL=desktop-wide.css.map */

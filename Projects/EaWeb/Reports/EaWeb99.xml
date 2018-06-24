@@ -1,0 +1,1791 @@
+<?xml version='1.0'?><!--Report: Timestamp 2002 05 30 23:08:17:863 --><EaWebReport xmlns='EaWebReportsSchema.xsd'><AfterIteration><BestAll><Data>1001 1010 1111 1010 0110 1111 1011 1010 1011 1000 1111 1111 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.24454494628906
+</ObjectionValue><FitnessValue>2996.75545505371
+</FitnessValue><ProblemArguments> 1.0790625 -0.6509375 2.27984375
+</ProblemArguments></BestAll><CurrentGeneration>1</CurrentGeneration><DeJongOffLine>2989.57192893677</DeJongOffLine><DeJongOnLine>2996.75545505371</DeJongOnLine><EmigrantsNonProccesed><Emigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Emigrant></EmigrantsNonProccesed><EmigrantsProccesed></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>130</Miliseconds><Summary>00:00:00.1301872</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.28703125
+</ProblemArguments></BestAll><CurrentGeneration>2</CurrentGeneration><DeJongOffLine>2992.27808664246</DeJongOffLine><DeJongOnLine>2996.77683630371</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 1111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.24454494628906
+</ObjectionValue><FitnessValue>2996.75545505371
+</FitnessValue><ProblemArguments> 1.0790625 -0.6509375 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1000 1100 1000 1101 0101 0011 1010 0000 1011 1000 1111 1111 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.24454494628906
+</ObjectionValue><FitnessValue>2996.75545505371
+</FitnessValue><ProblemArguments> 0.50203125 -1.775 2.27984375
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.28703125
+</ProblemArguments></BestAll><CurrentGeneration>3</CurrentGeneration><DeJongOffLine>2993.78479694621</DeJongOffLine><DeJongOnLine>2996.78396338704</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 1111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.24454494628906
+</ObjectionValue><FitnessValue>2996.75545505371
+</FitnessValue><ProblemArguments> 1.0790625 -0.6509375 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1000 1100 1000 1101 0101 0011 1010 0000 1011 1000 1111 1111 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.24454494628906
+</ObjectionValue><FitnessValue>2996.75545505371
+</FitnessValue><ProblemArguments> 0.50203125 -1.775 2.27984375
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.28703125
+</ProblemArguments></BestAll><CurrentGeneration>4</CurrentGeneration><DeJongOffLine>2994.53815209808</DeJongOffLine><DeJongOnLine>2996.78752692871</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0010 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -3.2109375 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 1010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.30703125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>50</Miliseconds><Summary>00:00:00.0500720</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20157905273438
+</ObjectionValue><FitnessValue>2996.79842094727
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.28703125
+</ProblemArguments></BestAll><CurrentGeneration>5</CurrentGeneration><DeJongOffLine>2994.99017535889</DeJongOffLine><DeJongOnLine>2996.78970573242</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0010 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -3.2109375 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 1010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20178244628906
+</ObjectionValue><FitnessValue>2996.79821755371
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.30703125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0111 1010 0110 1111 1011 1011 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20157905273438
+</ObjectionValue><FitnessValue>2996.79842094727
+</FitnessValue><ProblemArguments> 1.0590625 -0.65078125 1.28703125
+</ProblemArguments></BestAll><CurrentGeneration>6</CurrentGeneration><DeJongOffLine>2995.29154538625</DeJongOffLine><DeJongOnLine>2996.79115826823</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0110 1111 1011 1011 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20157905273438
+</ObjectionValue><FitnessValue>2996.79842094727
+</FitnessValue><ProblemArguments> 1.0590625 -0.65078125 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20157905273438
+</ObjectionValue><FitnessValue>2996.79842094727
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.28703125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 1011 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.18049780273437
+</ObjectionValue><FitnessValue>2996.81950219727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65078125 1.28703125
+</ProblemArguments></BestAll><CurrentGeneration>7</CurrentGeneration><DeJongOffLine>2995.5090720289</DeJongOffLine><DeJongOnLine>2996.79520740095</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0110 1111 1011 1011 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20157905273438
+</ObjectionValue><FitnessValue>2996.79842094727
+</FitnessValue><ProblemArguments> 1.0590625 -0.65078125 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0111 1010 0110 1111 1011 1010 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.20157905273438
+</ObjectionValue><FitnessValue>2996.79842094727
+</FitnessValue><ProblemArguments> 1.0590625 -0.6509375 1.28703125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>8</CurrentGeneration><DeJongOffLine>2995.72458740883</DeJongOffLine><DeJongOnLine>2997.00509068604</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 1011 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.18049780273437
+</ObjectionValue><FitnessValue>2996.81950219727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65078125 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.18049780273437
+</ObjectionValue><FitnessValue>2996.81950219727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>60</Miliseconds><Summary>00:00:00.0600864</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>9</CurrentGeneration><DeJongOffLine>2996.00730357564</DeJongOffLine><DeJongOnLine>2997.1683332411</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 1011 1010 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.18049780273437
+</ObjectionValue><FitnessValue>2996.81950219727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65078125 1.28703125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3.18049780273437
+</ObjectionValue><FitnessValue>2996.81950219727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>10</CurrentGeneration><DeJongOffLine>2996.25400058624</DeJongOffLine><DeJongOnLine>2997.29892728516</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>11</CurrentGeneration><DeJongOffLine>2996.45584359491</DeJongOffLine><DeJongOnLine>2997.40577695756</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>12</CurrentGeneration><DeJongOffLine>2996.62404610214</DeJongOffLine><DeJongOnLine>2997.49481835124</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>13</CurrentGeneration><DeJongOffLine>2996.76637130057</DeJongOffLine><DeJongOnLine>2997.57016106896</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></BestAll><CurrentGeneration>14</CurrentGeneration><DeJongOffLine>2996.88836432778</DeJongOffLine><DeJongOnLine>2997.63474054129</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52571030273438
+</ObjectionValue><FitnessValue>2998.47428969727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>15</CurrentGeneration><DeJongOffLine>2996.99409241882</DeJongOffLine><DeJongOnLine>2997.69071048503</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 1101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52572631835938
+</ObjectionValue><FitnessValue>2998.47427368164
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00703124999999982
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52571030273438
+</ObjectionValue><FitnessValue>2998.47428969727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>16</CurrentGeneration><DeJongOffLine>2997.08660474873</DeJongOffLine><DeJongOnLine>2997.73968418579</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52571030273438
+</ObjectionValue><FitnessValue>2998.47428969727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 11   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52571030273438
+</ObjectionValue><FitnessValue>2998.47428969727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.51276967773437
+</ObjectionValue><FitnessValue>2998.48723032227
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>17</CurrentGeneration><DeJongOffLine>2997.16851873007</DeJongOffLine><DeJongOnLine>2997.78365748794</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52571030273438
+</ObjectionValue><FitnessValue>2998.47428969727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1011 0011 1000 0000 0010 0101 11   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.52571030273438
+</ObjectionValue><FitnessValue>2998.47428969727
+</FitnessValue><ProblemArguments> 1.0490625 -0.65203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1011 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.65203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>18</CurrentGeneration><DeJongOffLine>2997.24181878815</DeJongOffLine><DeJongOnLine>2997.82332629123</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.51276967773437
+</ObjectionValue><FitnessValue>2998.48723032227
+</FitnessValue><ProblemArguments> 1.0490625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.51276967773437
+</ObjectionValue><FitnessValue>2998.48723032227
+</FitnessValue><ProblemArguments> 1.0490625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>80</Miliseconds><Summary>00:00:00.0801152</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>19</CurrentGeneration><DeJongOffLine>2997.30771102761</DeJongOffLine><DeJongOnLine>2997.85881943102</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.51276967773437
+</ObjectionValue><FitnessValue>2998.48723032227
+</FitnessValue><ProblemArguments> 1.0490625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0011 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.51276967773437
+</ObjectionValue><FitnessValue>2998.48723032227
+</FitnessValue><ProblemArguments> 1.0490625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>20</CurrentGeneration><DeJongOffLine>2997.36721027359</DeJongOffLine><DeJongOnLine>2997.89076325684</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1101 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64703125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>21</CurrentGeneration><DeJongOffLine>2997.42104292472</DeJongOffLine><DeJongOnLine>2997.91966481352</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1101 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64703125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>22</CurrentGeneration><DeJongOffLine>2997.46998169847</DeJongOffLine><DeJongOnLine>2997.94593895597</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>23</CurrentGeneration><DeJongOffLine>2997.51466492668</DeJongOffLine><DeJongOnLine>2997.96992839037</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>24</CurrentGeneration><DeJongOffLine>2997.55562455254</DeJongOffLine><DeJongOnLine>2997.99191870524</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>25</CurrentGeneration><DeJongOffLine>2997.59330740833</DeJongOffLine><DeJongOnLine>2998.01214979492</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:18</Created><Processed>30.05.2002 23:08:18</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>120</Miliseconds><Summary>00:00:00.1201728</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>26</CurrentGeneration><DeJongOffLine>2997.6280915829</DeJongOffLine><DeJongOnLine>2998.03082464694</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>70</Miliseconds><Summary>00:00:00.0701008</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 1010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50150190429688
+</ObjectionValue><FitnessValue>2998.4984980957
+</FitnessValue><ProblemArguments> 1.0440625 -0.64140625 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>27</CurrentGeneration><DeJongOffLine>2997.65991248203</DeJongOffLine><DeJongOnLine>2998.04814588578</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50230405273437
+</ObjectionValue><FitnessValue>2998.49769594727
+</FitnessValue><ProblemArguments> 1.0440625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>50</Miliseconds><Summary>00:00:00.0500720</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 0010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.936504052734374
+</ObjectionValue><FitnessValue>2999.06349594727
+</FitnessValue><ProblemArguments> 0.7240625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>28</CurrentGeneration><DeJongOffLine>2997.69994047252</DeJongOffLine><DeJongOnLine>2998.08440838797</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50150190429688
+</ObjectionValue><FitnessValue>2998.4984980957
+</FitnessValue><ProblemArguments> 1.0440625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50150190429688
+</ObjectionValue><FitnessValue>2998.4984980957
+</FitnessValue><ProblemArguments> 1.0440625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>50</Miliseconds><Summary>00:00:00.0500720</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 0010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64203125 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>29</CurrentGeneration><DeJongOffLine>2997.74452947798</DeJongOffLine><DeJongOnLine>2998.11819768824</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50150190429688
+</ObjectionValue><FitnessValue>2998.4984980957
+</FitnessValue><ProblemArguments> 1.0440625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 1010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.50150190429688
+</ObjectionValue><FitnessValue>2998.4984980957
+</FitnessValue><ProblemArguments> 1.0440625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>70</Miliseconds><Summary>00:00:00.0701008</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>30</CurrentGeneration><DeJongOffLine>2997.78851842295</DeJongOffLine><DeJongOnLine>2998.14973436849</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></BestAll><CurrentGeneration>31</CurrentGeneration><DeJongOffLine>2997.82967260595</DeJongOffLine><DeJongOnLine>2998.17923642421</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0011 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64203125 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>10</Miliseconds><Summary>00:00:00.0100144</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 1010 0110 1111 1111 0111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.835501904296875
+</ObjectionValue><FitnessValue>2999.1644980957
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64140625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>32</CurrentGeneration><DeJongOffLine>2997.8698202775</DeJongOffLine><DeJongOnLine>2998.21002585144</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 11   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 1010 0110 1111 1111 0111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.835501904296875
+</ObjectionValue><FitnessValue>2999.1644980957
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64140625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>33</CurrentGeneration><DeJongOffLine>2997.90905293866</DeJongOffLine><DeJongOnLine>2998.23894925278</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1001 0010 0001 1010 0110 1111 1111 0111 1000 0000 0010 0101 11   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.935701904296875
+</ObjectionValue><FitnessValue>2999.0642980957
+</FitnessValue><ProblemArguments> 0.7240625 -0.64140625 0.00578125000000007
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>10</Miliseconds><Summary>00:00:00.0100144</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>34</CurrentGeneration><DeJongOffLine>2997.94600135435</DeJongOffLine><DeJongOnLine>2998.26621839384</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.835501904296875
+</ObjectionValue><FitnessValue>2999.1644980957
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 0111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.835501904296875
+</ObjectionValue><FitnessValue>2999.1644980957
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64140625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>35</CurrentGeneration><DeJongOffLine>2997.98086131705</DeJongOffLine><DeJongOnLine>2998.29192929827</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.835501904296875
+</ObjectionValue><FitnessValue>2999.1644980957
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 0111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.835501904296875
+</ObjectionValue><FitnessValue>2999.1644980957
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64140625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>36</CurrentGeneration><DeJongOffLine>2998.01378461516</DeJongOffLine><DeJongOnLine>2998.31621181912</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>60</Miliseconds><Summary>00:00:00.0600864</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>37</CurrentGeneration><DeJongOffLine>2998.04493109436</DeJongOffLine><DeJongOnLine>2998.33918740894</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 1010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833899951171875
+</ObjectionValue><FitnessValue>2999.16610004883
+</FitnessValue><ProblemArguments> 0.0840624999999999 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>38</CurrentGeneration><DeJongOffLine>2998.07444034368</DeJongOffLine><DeJongOnLine>2998.3609537572</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>39</CurrentGeneration><DeJongOffLine>2998.10243696673</DeJongOffLine><DeJongOnLine>2998.38160388246</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>100</Miliseconds><Summary>00:00:00.1001440</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>40</CurrentGeneration><DeJongOffLine>2998.12903375862</DeJongOffLine><DeJongOnLine>2998.40122150147</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>41</CurrentGeneration><DeJongOffLine>2998.15433314604</DeJongOffLine><DeJongOnLine>2998.41988216344</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>42</CurrentGeneration><DeJongOffLine>2998.17842780071</DeJongOffLine><DeJongOnLine>2998.43765422247</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1110 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64265625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>60</Miliseconds><Summary>00:00:00.0600864</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>43</CurrentGeneration><DeJongOffLine>2998.20140177378</DeJongOffLine><DeJongOnLine>2998.4545996741</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1110 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64265625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></BestAll><CurrentGeneration>44</CurrentGeneration><DeJongOffLine>2998.22333147535</DeJongOffLine><DeJongOnLine>2998.47077487793</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833489575195313
+</ObjectionValue><FitnessValue>2999.1665104248
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>45</CurrentGeneration><DeJongOffLine>2998.24428820503</DeJongOffLine><DeJongOnLine>2998.48623566786</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833691357421875
+</ObjectionValue><FitnessValue>2999.16630864258
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>46</CurrentGeneration><DeJongOffLine>2998.26441097067</DeJongOffLine><DeJongOnLine>2998.50117316258</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833489575195313
+</ObjectionValue><FitnessValue>2999.1665104248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833489575195313
+</ObjectionValue><FitnessValue>2999.1665104248
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>60</Miliseconds><Summary>00:00:00.0600864</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>47</CurrentGeneration><DeJongOffLine>2998.28373210268</DeJongOffLine><DeJongOnLine>2998.51547501922</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833489575195313
+</ObjectionValue><FitnessValue>2999.1665104248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:19</Created><Processed>30.05.2002 23:08:19</Processed><Item><Data>1000 0010 0001 0010 0110 1111 1111 1111 1001 0000 0010 0101 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.833489575195313
+</ObjectionValue><FitnessValue>2999.1665104248
+</FitnessValue><ProblemArguments> 0.0828125000000002 -0.64015625 0.64578125
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>48</CurrentGeneration><DeJongOffLine>2998.30226602605</DeJongOffLine><DeJongOnLine>2998.52918096517</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>90</Miliseconds><Summary>00:00:00.0901296</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>49</CurrentGeneration><DeJongOffLine>2998.32004346276</DeJongOffLine><DeJongOnLine>2998.54232748476</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>50</CurrentGeneration><DeJongOffLine>2998.337109802</DeJongOffLine><DeJongOnLine>2998.55494814356</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>50</Miliseconds><Summary>00:00:00.0500720</Summary></TimeInIteration></AfterIteration><AfterIteration><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><CurrentGeneration>51</CurrentGeneration><DeJongOffLine>2998.35350687304</DeJongOffLine><DeJongOnLine>2998.56707387456</DeJongOnLine><EmigrantsNonProccesed></EmigrantsNonProccesed><EmigrantsProccesed><Emigrant><Id>0</Id><IndexInPopulation>0</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant><Emigrant><Id>1</Id><IndexInPopulation>1</IndexInPopulation><Source>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Source><Destination></Destination><Created>30.05.2002 23:08:20</Created><Processed>30.05.2002 23:08:20</Processed><Item><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></Item></Emigrant></EmigrantsProccesed><ImigrantsNonProccesed><Imigrant><Id>0</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>1</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>2</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant><Imigrant><Id>3</Id><Source></Source><Destination></Destination><Created>01.01.0001 00:00:00</Created><Processed>01.01.0001 00:00:00</Processed><Item><Data>0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00   
+</Data><IsValid>False
+</IsValid><ObjectionValue>0
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -5.12 -5.12 -5.12
+</ProblemArguments></Item></Imigrant></ImigrantsNonProccesed><ImigrantsProccesed></ImigrantsProccesed><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterIteration><AfterAlgorithm><BestAll><Data>1000 0000 0001 0010 0110 1111 1111 1111 1001 0000 0010 0100 10   
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.826639575195313
+</ObjectionValue><FitnessValue>2999.1733604248
+</FitnessValue><ProblemArguments> 0.00281250000000011 -0.64015625 0.645625
+</ProblemArguments></BestAll><Communication><Type>EaWebService.EaCoarseGrainedAsynchronic</Type><HostId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx-jxvcpx45010hxn55eaf5dk45</HostId><RequestId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebApplication/SetApplicationParameters.aspx-51ii0s55vzo5bqbebmj52ojs-BatchParameters/EaWeb01.xml-0-Parameters/EaWeb98.xml</RequestId><TopologyXml><Topology xmlns="EaWebTopologiesSchema.xsd">	<Services><Service xmlns="EaWebTopologiesSchema.xsd"><Id>1</Id><Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService98/Main.asmx</Url></Service><Service xmlns="EaWebTopologiesSchema.xsd"><Id>0</Id><Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Url></Service><Service xmlns="EaWebTopologiesSchema.xsd"><Id>2</Id><Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService99/Main.asmx</Url></Service></Services>	<UniDirectLinks><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>2</Id><From>0</From><To>1</To></UniDirectLink><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>3</Id><From>1</From><To>0</To></UniDirectLink><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>4</Id><From>0</From><To>2</To></UniDirectLink><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>5</Id><From>2</From><To>0</To></UniDirectLink></UniDirectLinks>	<BiDirectLinks></BiDirectLinks></Topology></TopologyXml><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService></Communication><CurrentGeneration>51</CurrentGeneration><ReportEaParameters><EaWebParams xmlns='EaWebParametersSchema.xsd'><Communication><Type>EaCoarseGrainedAsynchronic</Type><TopologyFile>Topologies/EaWeb98.xml</TopologyFile><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService><RequestId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebApplication/SetApplicationParameters.aspx-51ii0s55vzo5bqbebmj52ojs-BatchParameters/EaWeb01.xml-0-Parameters/EaWeb98.xml</RequestId></Communication><Crossover><Type>CrossoverBinaryOnePoint</Type><Probability>0.95</Probability><UniformMaskProbability>0.7</UniformMaskProbability></Crossover><Emigration><Type>EmigrationBest</Type><Count>2</Count><Interval>2</Interval></Emigration><Finish><ItemsOr> FinishItemExecutionTimeElapsed FinishItemNumberOfGenerations</ItemsOr><ItemsAnd> FinishItemIdle</ItemsAnd><NumberOfGenerations>50</NumberOfGenerations><BestItemUnchangedFor>5</BestItemUnchangedFor><BestFitnessUnchangedFor>5</BestFitnessUnchangedFor><ExecutionTimeDays>0</ExecutionTimeDays><ExecutionTimeHours>0</ExecutionTimeHours><ExecutionTimeMinutes>3</ExecutionTimeMinutes><ExecutionTimeSeconds>30</ExecutionTimeSeconds><ExecutionTimeMiliseconds>0</ExecutionTimeMiliseconds></Finish><Fitness><Type>FitnessSubtractFrom</Type><Value>3000</Value><RemoveDuplicates>false</RemoveDuplicates></Fitness><Imigration><Type>ImigrationWorst</Type><Count>2</Count><Interval>2</Interval></Imigration><Init><Type>InitBinary</Type><FromXmlFile>false</FromXmlFile><XmlFile>InitDatas/EaWeb01.xml</XmlFile></Init><Instance><Type>InstanceFunctionOptimizationXmlBinary</Type></Instance><Mutation><Type>MutationBinaryOnePoint</Type><Probability>0.005</Probability></Mutation><NewGeneration><UseElitistStrategy>true</UseElitistStrategy><EliteNumber>1</EliteNumber></NewGeneration><Population><ItemType>ItemBinary</ItemType><ItemLenght>50</ItemLenght><Count>8</Count></Population><Problem><Type>ProblemFunctionOptimizationXml</Type><InputFile>Problems/F01_Spheric.xml</InputFile><UseInput>true</UseInput></Problem><RandomGenerator><Type>RandomGenIntrisic</Type><UsePredefiniedSeed>false</UsePredefiniedSeed><Seed>0</Seed></RandomGenerator><ReportItems><AA> ReportItemBestAll ReportItemCommunication ReportItemCurrentGeneration ReportItemEaParameters ReportItemFinishReason ReportItemProblemInput ReportItemTimeInAlgorithm</AA><AI> ReportItemBestAll ReportItemCurrentGeneration ReportItemDeJongOffLine ReportItemDeJongOnLine ReportItemEmigrantsNonProccesed ReportItemEmigrantsProccesed ReportItemImigrantsNonProccesed ReportItemImigrantsProccesed ReportItemTimeInIteration</AI><ASCrossover> ReportItemIdle</ASCrossover><ASFinish> ReportItemIdle</ASFinish><ASFitness> ReportItemIdle</ASFitness><ASInstance> ReportItemIdle</ASInstance><ASMutation> ReportItemIdle</ASMutation><ASProblem> ReportItemIdle</ASProblem><ASSelection> ReportItemIdle</ASSelection><Url>Reports/EaWeb99.xml</Url></ReportItems><Selection><Type>SelectionTournament</Type><Probability>0.97</Probability><UseDirectlyPassed>false</UseDirectlyPassed><PassedNumber>0</PassedNumber><RankOfBest>13</RankOfBest><RankOfWorst>7</RankOfWorst><Truncation>0.8</Truncation><Exponent>0.34</Exponent><TournamentSize>3</TournamentSize><FineGrainedTournamentSize>5.6</FineGrainedTournamentSize></Selection></EaWebParams></ReportEaParameters><FinishReason>Number of generations is reached!</FinishReason><ProblemUseInput>True</ProblemUseInput><ProblemArgumentsXml><!--Problem definition in file Problems/F01_Spheric.xml --><EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">	<Problem>		<Description>F1 - Spheric function</Description>		<Dimension>3</Dimension>		<Interval>			<Id>0</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Interval>			<Id>1</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Interval>			<Id>2</Id>			<From>-5.12</From>			<To>5.12</To>		</Interval>		<Evaluate>			<Condition>				<Domain>					<ConstantBool>						true					</ConstantBool>				</Domain>				<Expression>					<BinaryPlus>						<BinaryPlus>							<Square>								<Argument>									<Id>0</Id>								</Argument>							</Square>							<Square>								<Argument>									<Id>1</Id>								</Argument>							</Square>						</BinaryPlus>						<Square>							<Argument>								<Id>2</Id>							</Argument>						</Square>					</BinaryPlus>				</Expression>			</Condition>		</Evaluate>		<KnownSolution>			<Argument>				<Id>0</Id>				<Value>0</Value>			</Argument>			<Argument>				<Id>1</Id>				<Value>0</Value>			</Argument>			<Argument>				<Id>2</Id>				<Value>0</Value>			</Argument>		</KnownSolution>	</Problem></EaProblemParameters></ProblemArgumentsXml><TimeInAlgorithm><Days>0</Days><Hours>0</Hours><Minutes>1</Minutes><Seconds>38</Seconds><Miliseconds>862</Miliseconds><Summary>00:01:38.8621568</Summary></TimeInAlgorithm></AfterAlgorithm></EaWebReport>

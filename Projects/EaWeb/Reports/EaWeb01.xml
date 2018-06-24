@@ -1,0 +1,81 @@
+<?xml version='1.0'?><!--Report: Timestamp 2002 04 30 12:25:57:396 --><EaWebReport xmlns='EaWebReportsSchema.xsd'><AfterAlgorithm><FinishReason>Number of generations is reached!</FinishReason><OverallTime><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>1</Seconds><Miliseconds>361</Miliseconds><Summary>00:00:01.3619584</Summary></OverallTime><PopulationAll><Item><Id>0</Id><Data>0101 0110 0001 1100 0111 0111 1011 0010 0111 1101 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3293.69330978394
+</ObjectionValue><FitnessValue>3293.69330978394
+</FitnessValue><ProblemArguments> -0.4765625 -1.16796875 0.3046875 1.720703125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 0110 0001 1110 0111 0111 1011 0010 0111 1101 11   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3293.69330978394
+</ObjectionValue><FitnessValue>3293.69330978394
+</FitnessValue><ProblemArguments> -2.7265625 -0.79296875 0.3046875 1.720703125
+</ProblemArguments></Item><Item><Id>2</Id><Data>1101 0010 0101 0010 1010 1100 0001 0001 1011 1111 00   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3291.50193309784
+</ObjectionValue><FitnessValue>3291.50193309784
+</FitnessValue><ProblemArguments> 3.8916015625 -3.0078125 3.0390625 -0.134765625
+</ProblemArguments></Item><Item><Id>3</Id><Data>1100 0011 0101 1010 1101 0010 1010 0000 1001 0111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3291.50193309784
+</ObjectionValue><FitnessValue>3291.50193309784
+</FitnessValue><ProblemArguments> 3.3642578125 -1.47265625 -2.859375 -3.025390625
+</ProblemArguments></Item><Item><Id>4</Id><Data>1100 0010 0101 0010 1010 1100 0011 0001 1011 1111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3291.50193309784
+</ObjectionValue><FitnessValue>3291.50193309784
+</FitnessValue><ProblemArguments> 3.3291015625 -3.0078125 3.1171875 -0.134765625
+</ProblemArguments></Item><Item><Id>5</Id><Data>0101 0010 0001 0100 1111 1010 0011 0100 1011 0111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3289.54119873047
+</ObjectionValue><FitnessValue>3289.54119873047
+</FitnessValue><ProblemArguments> -0.6171875 -2.57421875 1.876953125 -2.712890625
+</ProblemArguments></Item><Item><Id>6</Id><Data>0101 0010 0001 0100 1110 1000 0111 0100 1011 0111 00   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3289.54119873047
+</ObjectionValue><FitnessValue>3289.54119873047
+</FitnessValue><ProblemArguments> -0.6171875 -2.5859375 0.783203125 -2.712890625
+</ProblemArguments></Item><Item><Id>7</Id><Data>0101 0010 0001 0100 1110 1010 0011 0100 1011 0111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3289.54119873047
+</ObjectionValue><FitnessValue>3289.54119873047
+</FitnessValue><ProblemArguments> -0.6171875 -2.5859375 1.876953125 -2.712890625
+</ProblemArguments></Item><Item><Id>8</Id><Data>0100 0011 0101 0110 1110 0110 1010 0111 0011 1001 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3278.50748348236
+</ObjectionValue><FitnessValue>3278.50748348236
+</FitnessValue><ProblemArguments> -1.1357421875 -2.2109375 -0.349609375 3.556640625
+</ProblemArguments></Item><Item><Id>9</Id><Data>0100 0011 0101 0110 1100 0110 1011 0111 0011 0101 00   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3278.50748348236
+</ObjectionValue><FitnessValue>3278.50748348236
+</FitnessValue><ProblemArguments> -1.1357421875 -2.234375 -0.310546875 3.517578125
+</ProblemArguments></Item><Item><Id>10</Id><Data>0100 0011 0101 0101 1110 0110 1011 0111 0011 1111 00   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3278.50748348236
+</ObjectionValue><FitnessValue>3278.50748348236
+</FitnessValue><ProblemArguments> -1.1357421875 -2.3984375 -0.310546875 3.615234375
+</ProblemArguments></Item><Item><Id>11</Id><Data>1000 0111 1100 1110 1110 1110 0011 0100 1011 0111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3275.74908351898
+</ObjectionValue><FitnessValue>3275.74908351898
+</FitnessValue><ProblemArguments> 1.2724609375 -3.7109375 4.376953125 -2.712890625
+</ProblemArguments></Item><Item><Id>12</Id><Data>0100 0111 1100 1110 1110 1010 0011 0100 1011 0111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3275.74908351898
+</ObjectionValue><FitnessValue>3275.74908351898
+</FitnessValue><ProblemArguments> -0.9775390625 -3.7109375 1.876953125 -2.712890625
+</ProblemArguments></Item><Item><Id>13</Id><Data>0100 0010 0000 1100 1001 1010 1101 1101 0110 1101 00   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3269.81991577148
+</ObjectionValue><FitnessValue>3269.81991577148
+</FitnessValue><ProblemArguments> -1.1796875 -4.14453125 2.287109375 -0.935546875
+</ProblemArguments></Item><Item><Id>14</Id><Data>1100 0010 0101 0010 1110 1000 0011 0100 1011 1111 01   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3258.51574230194
+</ObjectionValue><FitnessValue>3258.51574230194
+</FitnessValue><ProblemArguments> 3.3291015625 -2.9609375 0.626953125 -2.634765625
+</ProblemArguments></Item><Item><Id>15</Id><Data>0000 0111 1100 1110 1010 1100 0011 0001 1011 1111 00   
+</Data><IsValid>True
+</IsValid><ObjectionValue>3248.32623195648
+</ObjectionValue><FitnessValue>3248.32623195648
+</FitnessValue><ProblemArguments> -3.2275390625 -3.7578125 3.1171875 -0.134765625
+</ProblemArguments></Item></PopulationAll><TimeInAlgorithm><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>1</Seconds><Miliseconds>341</Miliseconds><Summary>00:00:01.3419296</Summary></TimeInAlgorithm><WebServiceTimeout><ExpiresAt><Days>0</Days><Hours>0</Hours><Minutes>5</Minutes><Seconds>0</Seconds><Miliseconds>0</Miliseconds></ExpiresAt><CheckAt><Days>0</Days><Hours>0</Hours><Minutes>1</Minutes><Seconds>0</Seconds><Miliseconds>0</Miliseconds></CheckAt></WebServiceTimeout></AfterAlgorithm></EaWebReport>

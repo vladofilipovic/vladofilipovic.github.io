@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>др Владимир Филиповић - Наставне активности</title>
+    <meta charset='utf-8' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.racunarstvo.matf.bg.ac.rs/novosti.rss.php?locale=sr_RS"
+    />
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext,cyrillic' rel='stylesheet'
+        type='text/css'>
+
+    <link rel='stylesheet' media='screen' href='_assets/styles/normalize.css' />
+
+    <!--[if !IE]><!-->
+    <link rel='stylesheet' media='screen' href='_assets/styles/common.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='_assets/styles/floating-logo.css' />
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='_assets/styles/sr_RS/floating-logo.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='_assets/styles/desktop-wide.css' />
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='_assets/styles/sr_RS/desktop-wide.css' />
+
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='_assets/styles/mobile-landscape.css'
+    />
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='_assets/styles/sr_RS/mobile-landscape.css'
+    />
+
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='_assets/styles/mobile-portrait.css' />
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='_assets/styles/sr_RS/mobile-portrait.css' />
+    <!--<![endif]-->
+
+
+    <!-- Scripts -->
+    <script src='_assets/scripts/jquery-2.1.3.js'></script>
+    <script src='_assets/scripts/ui.js'></script>
+
+    <!--  Podesi klik preko opisa klase -->
+    <script>
+        $(document).ready(function () {
+            $('[class^=opis]').click(function () {
+                $('#toogle-' + this.className).toggle();
+                slideshow_init();
+            });
+        });
+    </script>
+
+    <!-- Addons -->
+    <link rel='stylesheet' media='screen' href='_assets/addons/slideshow/main.css' />
+    <script src='_assets/addons/slideshow/main.js'></script>
+    <script>
+        $(document).ready(function () {
+            slideshow_init();
+        });
+    </script>
+</head>
+
+<body onload="ui.init();">
+    <!-- Ucitaj delove strane -->
+    <script>
+        $(function () {
+            // ucitaj meni na vrhu
+            $("#navigation").load("p-navigation-cy.html");
+            // ucitaj meni na podnozju
+            $("#footer").load("p-footer-cy.html");
+        });
+    </script>
+
+    <div id="content">
+        <!--[if IE]>
+    <iframe src="badie.html" width="100%" height="128" border="0"></iframe>
+    <![endif]-->
+        <div id="matf_logo">
+            <a href="http://www.matf.bg.ac.rs" target="_blank">
+                <img src="_assets/images/sr_RS/matf-logo.png" />
+            </a>
+        </div>
+        <div id="title">
+            <h2>
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"> Катедра за </a>
+            </h2>
+            <h1>
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php">
+                    <span>Рачунарство и</span>
+                    <span>информатику</span>
+                </a>
+            </h1>
+        </div>
+
+        <div id="navigation">
+        </div>
+
+        <div id="page">
+            <h1>др Владимир Филиповић</h1>
+            <div class="image-half-width">
+                <img src="_assets/images/vladaf02.jpg" />
+            </div>
+            <h2 id="nastavne_aktivnosti">А. Наставне активности </h2>
+            <p>У протеклих неколико година, држао сам предавања из већег броја предмета на основним, мастер и докторским студијама
+                на Математичком факултету Универзитета у Београду, као и на Природно-математичком факултету Универзитета
+                у Бања Луци.</p>
+
+            <h3 id="predmeti">А.1. Предмети </h2>
+                <ol>
+                    <li>
+                        Микрорачунари са применом у образовању
+                        <ul>
+                            <li>
+                                <a href="Courses/Matf MR" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        Основи рачунарских система
+                        <ul>
+                            <li>
+                                <a href="Courses/Matf ORS" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Објектно орјентисано програмирање
+                        <ul>
+                            <li>
+                                <a href="Courses/Matf OOP" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Увод у веб и интернет технологије
+                        <ul>
+                            <li>
+                                <a href="Courses/Matf UVIT" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Развој софтвера 2 (мастер студије)
+                        <ul>
+                            <li>
+                                <a href="Courses/Matf RS2" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Методика наставе рачунарства (Бања Лука, математика)
+                        <ul>
+                            <li>
+                                <a href="Courses/PmfBl M MNR" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Примјена мултимедије у образовању (Бања Лука, математика)
+                        <ul>
+                            <li>
+                                <a href="Courses/PmfBl M PMO" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Интернет програмирање (Бања Лука, техничко и информатика)
+                        <ul>
+                            <li>
+                                <a href="Courses/PmfBl TI IP" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Оперативни системи (Бања Лука, техничко и информатика)
+                        <ul>
+                            <li>
+                                <a href="Courses/PmfBl TI OS" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Примјена рачунара у биологији (Бања Лука, биологија)
+                        <ul>
+                            <li>
+                                <a href="Courses/PmfBl B PRB" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> Хемијска информатика (Бања Лука, хемија)
+                        <ul>
+                            <li>
+                                <a href="Courses/PmfBl H HI" target="_blank"> Материјали </a>
+                            </li>
+                        </ul>
+                </ol>
+                <h3> А.2. Уџбеници и збирке задатака </h2>
+                    <p>
+                        Заједно са проф. др Душаном Тошићем, написао збирку:
+                        <ul>
+                            <li>
+                                <strong>Збирка семинарских задатака из Основа програмирања</strong>, Студентски трг, Београд, 1995.
+                            </li>
+                        </ul>
+                    </p>
+                    <p>
+                        Заједно са Јасном Гондом
+                        <a href="./Science/Papers/B.2.pdf" target="_blank ">превео</a> на српски језик и рецензирао књигу:
+                        <ul>
+                            <li>
+                                Cay S. Horstmann, Gary Cornell:
+                                <a href="http://www.delfi.rs/knjige/1714_java_2_tom_ii_knjiga_delfi_knjizare.html" target="_blank">
+                                    Јава 2, Том II – Напредне теме
+                                </a>, превод седмог издања, CET, 2008.
+                            </li>
+                        </ul>
+                    </p>
+                    <p>
+                        Лекторисаo превод на српски језик и извршио рецензију књига:
+                        <ul>
+                            <li>
+                                Cay S. Horstmann, Gary Cornel:
+                                <a href="http://www.delfi.rs/knjige/1712_java_2_tom_i_osnove_prevod_sedmog_izdanja_knjiga_delfi_knjizare.html" target="_blank">
+                                    Јава 2, Том I – Основе
+                                </a>, превод седмог издања, CET, 2007.
+                            </li>
+                            <li>
+                                Ivor Horton:
+                                <a href="http://www.delfi.rs/knjige/1713_java_2_jdk_5_od_pocetka_12_knjiga_delfi_knjizare.html" target="_blank">
+                                    Јава 2 JDK 5, од почетка 1/2
+                                </a>, CET, 2006.
+                            </li>
+                        </ul>
+                    </p>
+                    <h2 id="doprinos_zajednici">Б. Допринос академској и широј заједници</h2>
+                    <h3>Б.1. Чланство у стручним и научним асоцијацијама</h3>
+                    <ul>
+                        <li>
+                            <a href="http://www.ieeesmc.org/technical-activities/cybernetics/soft-computing" target="_blank ">
+                                IEEE Systems, Men and Cybernetics Society - Technical Committee for Soft Computing </a>
+                        </li>
+                        <li>
+                            <a href="http://cis.ieee.org" target="_blank ">
+                                IEEE Computational Intelligence Society </a>
+                        </li>
+                        <li>
+                            <a href="http://bigdata.ieee.org" target="_blank ">
+                                IEEE Big Data Community </a>
+                        </li>
+                        <li>
+                            <a href="http://iot.ieee.org" target="_blank ">
+                                IEEE Internet of Things Community </a>
+                        </li>
+                        <li>
+                            <a href="http://brain.ieee.org" target="_blank ">
+                                IEEE Brain Community </a>
+                        </li>
+                        <li>
+                            <a href="http://cloudcomputing.ieee.org" target="_blank ">
+                                IEEE Cloud Computing Community </a>
+                        </li>
+                        <li>
+                            <a href="http://cybersecurity.ieee.org" target="_blank ">
+                                IEEE Cybersecurity Community </a>
+                        </li>
+                        <li>
+                            <a href="http://greenict.ieee.org" target="_blank ">
+                                IEEE Green ICT Community </a>
+                        </li>
+                        <li>
+                            <a href="http://lifesciences.ieee.org" target="_blank ">
+                                IEEE Life Sciences Community </a>
+                        </li>
+                        <li>
+                            <a href="http://smartcities.ieee.org" target="_blank ">
+                                IEEE Smart Cities Community </a>
+                        </li>
+                        <li>
+                            <a href="http://smartgrid.ieee.org" target="_blank ">
+                                IEEE Smart Grid Community </a>
+                        </li>
+                        <li>
+                            <a href="https://www.ieee.org/index.html" target="_blank ">
+                                IEEE</a>
+                        </li>
+                        <li>
+                            <a href="http://www.dms.rs" target="_blank ">
+                                Друштво математичара Србије </a>
+                        </li>
+                    </ul>
+                    <h3>Б.2. Чланство у органима управљања и стручним органима</h3>
+                    <ul>
+                        <li>
+                            <strong>Шеф Катедре за рачунарство и информатику</strong> Математичког факултета Унверзитета у Београду
+                            (од фебруара 2017. до октобра 2017.)
+                        </li>
+                        <li>
+                            <strong>Шеф Лабораторије за испитивање и сертификацију софтвера</strong> на Математичком факултету (од
+                            јануара 2007. до јуна 2016.). У том својству организовао, координирао и реализовао активности
+                            испитивања софтвера уметнутог у разноврсне уређаје, као што су електрична бројила, ваге и аутомати
+                            за игре на срећу. Активности су се реализовале у сарадњи са Заводом за мере и драгоцене метале
+                            Републике Србије.
+                        </li>
+                        <li>
+                            <strong>Продекан за наставу</strong> Математичког факултета Унверзитета у Београду (од јануара 2008.
+                            до децембра 2011.)
+                        </li>
+                        <li>
+                            Члан Надзорнog одборa организације за заштиту националне баштине
+                            <a href="http://serbia-forum.org" target="_blank">SerbiaForum</a>
+                        </li>
+                        <li>
+                            Члан Комисијe за спровођење прописа из области игара на срећу, оформљене од стране
+                            <a href="http://www.dmdm.rs/cr/index.php" target="_blank">Завода за мере и драгоцене метале Републике Србије
+                            </a>
+                        </li>
+                        <li>
+                            Члан Комисијe за софтвер, оформљене од стране
+                            <a href="http://www.dmdm.rs/cr/index.php" target="_blank">Завода за мере и драгоцене метале Републике Србије</a>
+                        </li>
+                        <li>
+                            Члан Комисијe за оцењивање програма сталног стручног усавршавања наставника, оформљене од стране
+                            <a href="http://www.zuov.gov.rs" target="_blank">
+                                Завода за унапређење образовања и васпитања Републике Србије</a>
+                        </li>
+                    </ul>
+                    <h3>Б.3. Учешће у наставним активностима ван студијских програма високошколске установе</h3>
+                    <ul>
+                        <li> У периоду oд 2008. до 2012. године, оцењивао сам програме за стручна усавршавања наставника информатике
+                            и учествовао у оформљењу
+                            <a href="http://www.zuov.gov.rs/katalozi-su/?lng=cir" target="_blank">Каталога програма сталног стручног усавршавања наставника, васпитача и стручних сарадника</a>
+                            за 2008, 2009, 2010, 2011 и 2012.
+                        </li>
+                        <li> 2012. године, оцењивао сам успешност примене програма стручног усавршавања на Конкурсу
+                            <a href="http://www.zuov.gov.rs/saznali-primenili-baza-radova-2012/">Сазнали на семинару, применили у пракси</a>, који је реализован у оквиру Завода за унапређење
+                            образовања и васпитања Републике Србије.
+                        </li>
+                        <li> Док сам обављао дужност продекана за наставу, учествовао у организацији и реализовању манифестације
+                            <strong>Ноћ музеја</strong> на Математичком факултету.
+                        </li>
+                    </ul>
+                    <h2 id="saradnja">В. Сарадња са другим научно-истраживачким и високошколским установама</h2>
+                    <h3>В.1. Радно ангажовање у другим научно-истраживачким институцијама</h3>
+                    <ul>
+                        <li> У периоду од 2004. до 2006. године радиo сам као асистент, а од 2006. до 2009. као наставник на
+                            <a href="https://raf.edu.rs/" target="_blank">Рачунарском факултету</a>, Београд. У том периоду држао сам вежбе и прдавања из предмета Објектно-орјентисано
+                            програмирање и Софтверско инжењерство.
+                        </li>
+                        <li> Почев од 2006. године, ангажован сам као гостујући професор на
+                            <a href="http://pmf.unibl.org/" target="_blank">Природно-математичком факултету Универзитета у Бања Луци
+                            </a>. У том својству, држао наставу из рачунарских предмета студентима на студијским програмима
+                            Математика и Информатика, Билогија, Хемија и Техничко и информатика.
+                        </li>
+                    </ul>
+                    <h3>В.2. Учешће у изради и спровођењу пројекта унапређења наставе </h3>
+                    <ul>
+                        <li>
+                            <p>
+                            Од 2009. до 2012. учествовао на Темпус пројекту
+                            <strong>144703-TEMPUS-1 -2008-1-BATTEMPUS-JPCR „SEE Doctoral Studies in Mathematical Sciences“</strong>,
+                            који се односио на заједничке студијске програме.</p>
+                            <p>
+                            Главни циљеви пројекта су били: успостављање
+                            и развој структуираних докторских студије математичких наука кроз повезивање природно-математичких
+                            факултета са универзитета западног Балкана и њихових ЕУ партнера, осавремењивање лабораторије
+                            за примењену математику на факултетима-партнерима западног Балкана који учествују у пројекту
+                            и појачавање програма на мастер студијама, посебно у областима математичког моделирања и финансијске
+                            математике.
+                        </p>
+                        </li>
+                        <li>
+                            <p>Почев од децембра 2017. руководим пројектом
+                                <strong>Развијање новог студијског програма докторских студија информатике на енглеском језику</strong>
+                                прихваћеног у оквиру програмске активности 0014 "Развој високог образовања" програма 2005 "Високо образовање", који финансира
+                                Министарство науке и образовања Републике Србије.
+                            </p>
+                            <p> Пројекат представља први корак у конципирању новог студијског програма докторских студија информатике
+                                на енглеском језику и обухвата иновирање садржаја и припрему материјала неопходних за акредитацију
+                                и реализацију шест курсева који су у овом тренутку у жижи интересовања међународне научне
+                                заједнице у области информатике.
+                            </p>
+                        </li>
+                    </ul>
+        </div>
+    </div>
+
+    <!-- <div id="testing-output"><span> style</span></div> -->
+    <div id="presentation_mode">
+        <!-- This is used from JS to test the presentation size -->
+    </div>
+    <div id="footer">
+    </div>
+</body>
+
+</html>

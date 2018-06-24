@@ -1,0 +1,61 @@
+<?xml version='1.0'?><!--Report: Timestamp 2002 05 30 23:49:02:557 --><EaWebReport xmlns='EaWebReportsSchema.xsd'><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>1</CurrentGeneration><DeJongOffLine>-2767.02615875738</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>2</CurrentGeneration><DeJongOffLine>-2787.04502120384</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>3</CurrentGeneration><DeJongOffLine>-2795.39486706807</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>4</CurrentGeneration><DeJongOffLine>-2809.44164203997</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>5</CurrentGeneration><DeJongOffLine>-2821.92664692341</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>6</CurrentGeneration><DeJongOffLine>-2830.45673584638</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>7</CurrentGeneration><DeJongOffLine>-2836.55533020338</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>8</CurrentGeneration><DeJongOffLine>-2841.14866084864</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>9</CurrentGeneration><DeJongOffLine>-2844.72555915499</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>10</CurrentGeneration><DeJongOffLine>-2847.58901631936</DeJongOffLine></AfterIteration><AfterIteration><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><CurrentGeneration>11</CurrentGeneration><DeJongOffLine>-2849.93280264371</DeJongOffLine></AfterIteration><AfterAlgorithm><BestAll><Data>0111 0011 1110 1110 0100 0110 1000 0110 1001 1111 1100 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>1.89543937923287
+</ObjectionValue><FitnessValue>998.104560620767
+</FitnessValue><ProblemArguments> -0.19310791015625 0.105988037109375
+</ProblemArguments></BestAll><Communication><Type>EaWebService.EaSequential</Type><HostId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx-g5oyisf04u0keh4503mpto45</HostId><RequestId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebApplication/SetApplicationParameters.aspx-kqpoz445des4qj55krmaes55-BatchParameters/EaWeb01.xml-0-Parameters/F02_Rozenbrock.xml</RequestId><TopologyXml><Topology xmlns="EaWebTopologiesSchema.xsd">	<Services><Service xmlns="EaWebTopologiesSchema.xsd"><Id>1</Id><Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService98/Main.asmx</Url></Service><Service xmlns="EaWebTopologiesSchema.xsd"><Id>0</Id><Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService99/Main.asmx</Url></Service><Service xmlns="EaWebTopologiesSchema.xsd"><Id>2</Id><Url>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</Url></Service></Services>	<UniDirectLinks><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>2</Id><From>0</From><To>1</To></UniDirectLink><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>3</Id><From>1</From><To>0</To></UniDirectLink><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>4</Id><From>0</From><To>2</To></UniDirectLink><UniDirectLink xmlns="EaWebTopologiesSchema.xsd"><Id>5</Id><From>2</From><To>0</To></UniDirectLink></UniDirectLinks>	<BiDirectLinks></BiDirectLinks></Topology></TopologyXml><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService></Communication><CurrentGeneration>11</CurrentGeneration><ReportEaParameters><EaWebParams xmlns='EaWebParametersSchema.xsd'><Communication><Type>EaSequential</Type><TopologyFile>Topologies/EaTopology01.xml</TopologyFile><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService><RequestId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebApplication/SetApplicationParameters.aspx-kqpoz445des4qj55krmaes55-BatchParameters/EaWeb01.xml-0-Parameters/F02_Rozenbrock.xml</RequestId></Communication><Crossover><Type>CrossoverBinaryTwoPoints</Type><Probability>0.95</Probability><UniformMaskProbability>0.8</UniformMaskProbability></Crossover><Emigration><Type>EmigrationIdle</Type><Count>0</Count><Interval>0</Interval></Emigration><Finish><ItemsOr> FinishItemNumberOfGenerations</ItemsOr><ItemsAnd> FinishItemIdle</ItemsAnd><NumberOfGenerations>10</NumberOfGenerations><BestItemUnchangedFor>1</BestItemUnchangedFor><BestFitnessUnchangedFor>1</BestFitnessUnchangedFor><ExecutionTimeDays>0</ExecutionTimeDays><ExecutionTimeHours>0</ExecutionTimeHours><ExecutionTimeMinutes>0</ExecutionTimeMinutes><ExecutionTimeSeconds>0</ExecutionTimeSeconds><ExecutionTimeMiliseconds>0</ExecutionTimeMiliseconds></Finish><Fitness><Type>FitnessSubtractFrom</Type><Value>1000</Value><RemoveDuplicates>false</RemoveDuplicates></Fitness><Imigration><Type>ImigrationIdle</Type><Count>0</Count><Interval>0</Interval></Imigration><Init><Type>InitBinary</Type><FromXmlFile>false</FromXmlFile><XmlFile>InitDatas/EaWeb01.xml</XmlFile></Init><Instance><Type>InstanceFunctionOptimizationXmlBinary</Type></Instance><Mutation><Type>MutationBinaryOnePoint</Type><Probability>0.005</Probability></Mutation><NewGeneration><UseElitistStrategy>true</UseElitistStrategy><EliteNumber>1</EliteNumber></NewGeneration><Population><ItemType>ItemBinary</ItemType><ItemLenght>48</ItemLenght><Count>160</Count></Population><Problem><Type>ProblemFunctionOptimizationXml</Type><InputFile>Problems/F02_Rozenbrock.xml</InputFile><UseInput>true</UseInput></Problem><RandomGenerator><Type>RandomGenIntrisic</Type><UsePredefiniedSeed>true</UsePredefiniedSeed><Seed>17</Seed></RandomGenerator><ReportItems><AA> ReportItemBestAll ReportItemCommunication ReportItemCurrentGeneration ReportItemEaParameters ReportItemFinishReason ReportItemProblemInput ReportItemTimeInAlgorithm</AA><AI> ReportItemBestAll ReportItemCurrentGeneration ReportItemDeJongOffLine</AI><ASCrossover> ReportItemIdle</ASCrossover><ASFinish> ReportItemIdle</ASFinish><ASFitness> ReportItemIdle</ASFitness><ASInstance> ReportItemIdle</ASInstance><ASMutation> ReportItemIdle</ASMutation><ASProblem> ReportItemIdle</ASProblem><ASSelection> ReportItemIdle</ASSelection><Url>Reports/F02_Rozenbrock.xml</Url></ReportItems><Selection><Type>SelectionRoulette</Type><Probability>0.97</Probability><UseDirectlyPassed>false</UseDirectlyPassed><PassedNumber>0</PassedNumber><RankOfBest>13</RankOfBest><RankOfWorst>7</RankOfWorst><Truncation>0.8</Truncation><Exponent>0.34</Exponent><TournamentSize>3</TournamentSize><FineGrainedTournamentSize>5.6</FineGrainedTournamentSize></Selection></EaWebParams></ReportEaParameters><FinishReason>Number of generations is reached!</FinishReason><ProblemUseInput>True</ProblemUseInput><ProblemArgumentsXml><!--Problem definition in file Problems/F02_Rozenbrock.xml --><EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">	<Problem>		<Description>F2 - Rozenbrock's fuction</Description>		<Dimension>2</Dimension>		<Interval>			<Id>0</Id>			<From>-2.048</From>			<To>2.048</To>		</Interval>		<Interval>			<Id>1</Id>			<From>-2.048</From>			<To>2.048</To>		</Interval>		<Evaluate>			<Condition>				<Domain>					<ConstantBool>						true					</ConstantBool>				</Domain>				<Expression>					<BinaryPlus>						<BinaryMultiply>							<Constant>100</Constant>							<Square>								<BinaryMinus>									<Square>										<Argument>											<Id>0</Id>										</Argument>									</Square>									<Argument>										<Id>1</Id>									</Argument>								</BinaryMinus>							</Square>						</BinaryMultiply>						<Square>							<BinaryMinus>								<Constant>1</Constant>								<Argument>									<Id>0</Id>								</Argument>							</BinaryMinus>						</Square>					</BinaryPlus>				</Expression>			</Condition>		</Evaluate>	</Problem></EaProblemParameters></ProblemArgumentsXml><TimeInAlgorithm><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>2</Seconds><Miliseconds>733</Miliseconds><Summary>00:00:02.7339312</Summary></TimeInAlgorithm></AfterAlgorithm></EaWebReport>

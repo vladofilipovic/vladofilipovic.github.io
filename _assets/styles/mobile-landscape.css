@@ -1,0 +1,89 @@
+/* Calculating other colors */
+div#content div#matf_logo {
+  float: left;
+  margin-right: 16px; }
+div#content div#title {
+  color: white; }
+  div#content div#title a {
+    color: white;
+    text-decoration: none; }
+  div#content div#title h2, div#content div#title h1 {
+    margin: 0;
+    padding: 0; }
+  div#content div#title h2 {
+    padding-top: 52px;
+    text-transform: uppercase;
+    font-size: 15px;
+    height: 24px; }
+  div#content div#title h1 {
+    font-size: 24px;
+    height: 53px; }
+    div#content div#title h1 span {
+      display: block; }
+div#content div#navigation .navigation_title {
+  margin: 0;
+  padding: 0;
+  height: 0;
+  font-size: 1em;
+  clear: left; }
+  div#content div#navigation .navigation_title span#navigation_menu_title_text {
+    width: 100%;
+    padding: 8px 0;
+    margin-top: -3.5em;
+    float: left;
+    margin-left: 174px;
+    height: 32px; }
+div#content div#navigation ul.navigation_list {
+  position: absolute;
+  top: 200px;
+  left: 174px;
+  right: 0;
+  list-style-type: none;
+  display: none;
+  background-color: #303030;
+  padding: 16px 0; }
+  div#content div#navigation ul.navigation_list ul {
+    padding: 0;
+    list-style-type: none; }
+  div#content div#navigation ul.navigation_list a {
+    color: gray !important;
+    text-decoration: none;
+    padding: 4px 0 !important;
+    padding-left: 16px !important;
+    display: block; }
+  div#content div#navigation ul.navigation_list a[href] {
+    color: white !important; }
+    div#content div#navigation ul.navigation_list a[href]:HOVER {
+      background-color: #686464 !important;
+      color: white; }
+  div#content div#navigation ul.navigation_list ul li a {
+    padding-left: 32px !important; }
+  div#content div#navigation ul.navigation_list li#navigation_section__language {
+    display: none !important; }
+    div#content div#navigation ul.navigation_list li#navigation_section__language img {
+      display: none !important; }
+div#content div#page div.image-full-width {
+  text-align: center; }
+  div#content div#page div.image-full-width p {
+    text-align: center; }
+  div#content div#page div.image-full-width img {
+    max-width: 100% !important; }
+div#content div#page div.image-columns-2 {
+  text-align: center; }
+  div#content div#page div.image-columns-2 div.image-columns-inner {
+    display: block;
+    margin: auto; }
+  div#content div#page div.image-columns-2 img {
+    display: block;
+    margin: 0 auto; }
+  div#content div#page div.image-columns-2 p {
+    text-align: center; }
+
+/* Footer */
+div#footer .content {
+  display: none; }
+
+div#presentation_mode {
+  width: 200px; }
+
+/*# sourceMappingURL=mobile-landscape.css.map */

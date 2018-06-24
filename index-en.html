@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Vladimir Filipović, PhD - Faculty of Mathematics</title>
+    <meta charset='utf-8' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.racunarstvo.matf.bg.ac.rs/novosti.rss.php?locale=sr_RS"
+    />
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext,cyrillic' rel='stylesheet'
+        type='text/css'>
+
+    <link rel='stylesheet' media='screen' href='_assets/styles/normalize.css' />
+
+    <!--[if !IE]><!-->
+    <link rel='stylesheet' media='screen' href='_assets/styles/common.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='_assets/styles/floating-logo.css' />
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='_assets/styles/sr_RS/floating-logo.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='_assets/styles/desktop-wide.css' />
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='_assets/styles/sr_RS/desktop-wide.css' />
+
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='_assets/styles/mobile-landscape.css'
+    />
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='_assets/styles/sr_RS/mobile-landscape.css'
+    />
+
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='_assets/styles/mobile-portrait.css' />
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='_assets/styles/sr_RS/mobile-portrait.css' />
+    <!--<![endif]-->
+
+
+    <!-- Scripts -->
+    <script src='_assets/scripts/jquery-2.1.3.js'></script>
+    <script src='_assets/scripts/ui.js'></script>
+
+    <!--  Podesi klik preko opisa klase -->
+    <script>
+        $(document).ready(function () {
+            $('[class^=opis]').click(function () {
+                $('#toogle-' + this.className).toggle();
+                slideshow_init();
+            });
+        });
+    </script>
+
+    <!-- Addons -->
+    <link rel='stylesheet' media='screen' href='_assets/addons/slideshow/main.css' />
+    <script src='_assets/addons/slideshow/main.js'></script>
+    <script>
+        $(document).ready(function () {
+            slideshow_init();
+        });
+    </script>
+</head>
+
+<body onload="ui.init();">
+    <script>
+        $(function () {
+            // ucitaj meni na vrhu
+            $("#navigation").load("p-navigation-en.html");
+            // ucitaj meni na podnozju
+            $("#footer").load("p-footer-en.html");
+            // pokreni sljadove
+            slideshow_init();
+        });
+    </script>
+
+    <div id="content">
+        <!--[if IE]>
+    <iframe src="badie.html" width="100%" height="128" border="0"></iframe>
+    <![endif]-->
+        <div id="matf_logo">
+            <a href="http://www.matf.bg.ac.rs" target="_blank">
+                <img src="_assets/images/sr_RS/matf-logo.png" />
+            </a>
+        </div>
+        <div id="title">
+            <h2>
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"> Department for </a>
+            </h2>
+            <h1>
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php">
+                    <span>Computer science and</span>
+                    <span>informatics</span>
+                </a>
+            </h1>
+        </div>
+
+        <div id="navigation">
+        </div>
+
+        <div id="page">
+            <h1>Vladimir Filipović, PhD</h1>
+            <p>Associate Professor at
+                <a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"> Department for computer science</a>,
+                <a href="http://www.matf.bg.ac.rs/eng/" target="_blank">Faculty of Mathematics</a>,
+                <a href="http://bg.ac.rs/en/index.php" target="_blank"> University of Belgrade</a>. Member of the
+                <a href="science-group-index-en.html" target="_blank">Modelling and optimization group</a> within Department for computer science</a>.
+            </p>
+            <div class="image-half-width">
+                <img src="_assets/images/vladaf02.jpg" />
+            </div>
+            <h2 id="biography"> Biography </h2>
+            <p>
+                I was born on June 17
+                <sup>th</sup> 1968, in Podgorica, Montenegro where I completed my primary and secondary education with excellent
+                grades, GPA: 5.00/5.00. I was awarded the "Best student of the class '88" award in my High school "Slobodan
+                Škerović", Podgorica.
+            </p>
+            <p>
+                In October 1987 I started the Computer science studies at
+                <a href="http://www.matf.bg.ac.rs/eng/" target="_blank">Faculty of Mathematics</a>, University of Belgrade. In 1988 I was awarded the Scholarship of the University
+                of Belgrade, as one of the 40 best students of the University. From 1989 to 1993 I was on a Scholarship of
+                the Fund for Science Promotion of the Government of Serbia, given to the 100 best students of all Serbian
+                universities.
+            </p>
+            <p>
+                I obtained BSc in Computer Science (May 1993), at the Faculty of Mathematics, University of Belgrade, Serbia, GPA: 9.71/10.00.
+                Dissertation: "Iterative Algorithms for Solving Linear Equation System on Transputer Computers”.
+            </p>
+            <p>
+                In January 1998, I got my MSc degree in Computer Science, at the Faculty of Mathematics, University of Belgrade, Serbia.
+                Dissertation: "Proposition for Improvement Tournament Selection Operator in Genetic Algorithms”.
+            </p>
+            <p>
+                I got my PhD in Computer Science in June 2006, at the same institution - Faculty of Mathematics, University of Belgrade,
+                Serbia. Title of the thesis: "Selection and Migration Operators and Web Services in Evolutionary Applications”.
+            </p>
+            <p>
+                Since 1993 I have been working at the Department for Computer Science, Faculty of Mathematics, University of Belgrade, Serbia,
+                firstly as teaching assistant, since 2006 as assistant professor and since 2013 as associate professor.
+            </p>
+            <p>
+                From January 2007 until June 2016 I served as the Head of the Software Examination and Certification Laboratory at Faculty
+                of Mathematics, Belgrade University.
+            </p>
+            <p>
+                From January 2008 until December 2011 I served as Vice Dean for Academic Affairs at the Faculty of Mathematics, University
+                of Belgrade, Serbia.
+            </p>
+            <p>
+                From February 2017 until October 2017 I served as the Head of the Department for Computer Science at the Faculty of Mathematics,
+                University of Belgrade, Serbia.
+            </p>
+            <p>
+                My profiles:
+                <br/>
+                <a href="https://orcid.org/0000-0002-5943-8037" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">
+                    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-5943-8037
+                </a>
+                &nbsp;
+                <a href="http://dblp2.uni-trier.de/pers/hd/f/Filipovic:Vladimir" target="_blank ">
+                    <b>DBLP</b>
+                </a>
+                &nbsp;
+                <a href="http://rs.linkedin.com/in/vladofilipovic">
+                    <img border=0 width=120 height=33 id="_x0000_i1025 " src="_assets/images/linked_in_120x33.png" alt="My LinkedIn profile">
+                </a>
+                &nbsp;
+                <a href="https://scholar.google.com/citations?hl=sr&user=TQUS22oAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+                    <b>Google Scholar</b>
+                </a>
+            </p>
+            <p>
+                Here is my
+                <a href="Science/Papers/CV-Vladimir-Filipovic.pdf" target="_blank">short CV</a>.
+            </p>
+            <h2 id="personal"> Personal </h2>
+            <p>
+                My e-mail addresses are:
+                <a href="mailto:vladaf@math.rs" target="_top">
+                    vladaf@math.rs</a>,
+                <a href="mailto:vladaf@matf.bg.ac.rs" target="_top">
+                    vladaf@matf.bg.ac.rs</a> and
+                <a href="mailto:vladofilipovic@hotmail.com" target="_top">
+                    vladofilipovic@hotmail.com</a>.
+
+            </p>
+            <div class="slideshow" id="slideshow1">
+                <br/>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2009-12-28-001.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2009-12-28-002.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2010-09-11-001.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2011-12-31-003.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2012-01-01-002.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2012-01-01-004.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2012-05-24-001.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2012-05-24-002.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2012-05-25-001.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2012-05-25-002.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2014-12-26-001.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2014-12-26-002.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2014-12-26-003.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2014-12-26-004.jpg" />
+                </div>
+                <!--
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2014-12-27-002.jpg" />
+                </div>
+                 -->
+                <div class="image-full-width">
+                    <img src="_assets/images/private/2015-08-27-001.jpg" />
+                </div>
+            </div>
+            <p>
+                Hobbies: sport (volleyball and swimming), computer games, travelling...
+            </p>
+        </div>
+    </div>
+
+    <!-- <div id="testing-output"><span> style</span></div> -->
+    <div id="presentation_mode">
+        <!-- This is used from JS to test the presentation size -->
+    </div>
+    <div id="footer">
+    </div>
+</body>
+
+</html>

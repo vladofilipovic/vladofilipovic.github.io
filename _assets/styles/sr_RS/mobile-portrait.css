@@ -1,0 +1,15 @@
+/* Calculating other colors */
+a#navigation_university {
+  display: block;
+  position: absolute;
+  top: 0;
+  background-image: url(http://www.racunarstvo.matf.bg.ac.rs/_assets/images/sr_RS/unverzitet-logo-center.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  height: 53px;
+  right: 0;
+  left: 0; }
+  a#navigation_university span {
+    display: none; }
+
+/*# sourceMappingURL=mobile-portrait.css.map */

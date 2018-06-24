@@ -1,0 +1,26 @@
+<!--Problem definition in file Problems/EaWeb01.xml -->
+<EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">
+	<Problem>
+		<Description>Function Optimization</Description>
+		<Dimension>4</Dimension>
+		<Interval0>
+			<From0>-3.5</From0>
+			<To0>5.5</To0>
+		</Interval0>
+		<Interval1>
+			<From1>-6.5</From1>
+			<To1>5.5</To1>
+		</Interval1>
+		<Interval2>
+			<From2>-4.5</From2>
+			<To2>5.5</To2>
+		</Interval2>
+		<Interval3>
+			<From3>-4.5</From3>
+			<To3>5.5</To3>
+		</Interval3>
+		<Evaluate>
+			3300.5 - {x1+x2}^{2} - {x3+x4}^{2}
+		</Evaluate>
+	</Problem>
+</EaProblemParameters>

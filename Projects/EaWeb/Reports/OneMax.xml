@@ -1,0 +1,71 @@
+<?xml version='1.0'?><!--Report: Timestamp 2001 12 12 19:53:49:303 --><EaWebReport xmlns='EaWebReportsSchema.xsd'><AfterIteration><BestAll><Data>0101 1011 1000 0111 1001 0101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>15
+</ObjectionValue><FitnessValue>15
+</FitnessValue><ProblemArguments> 13
+</ProblemArguments></BestAll><CurrentGeneration>1</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0100 0110 1111 1010 1111 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>16
+</ObjectionValue><FitnessValue>16
+</FitnessValue><ProblemArguments> 16
+</ProblemArguments></BestAll><CurrentGeneration>2</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0100 0110 0010 0000 1111 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>16
+</ObjectionValue><FitnessValue>16
+</FitnessValue><ProblemArguments> 11
+</ProblemArguments></BestAll><CurrentGeneration>3</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0101 1011 0010 0000 1111 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>17
+</ObjectionValue><FitnessValue>17
+</FitnessValue><ProblemArguments> 13
+</ProblemArguments></BestAll><CurrentGeneration>4</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>1000 0111 1111 1011 1001 0101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>17
+</ObjectionValue><FitnessValue>17
+</FitnessValue><ProblemArguments> 15
+</ProblemArguments></BestAll><CurrentGeneration>5</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0101 1011 1111 1011 1001 0111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>17
+</ObjectionValue><FitnessValue>17
+</FitnessValue><ProblemArguments> 17
+</ProblemArguments></BestAll><CurrentGeneration>6</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0110 0111 1111 1011 1001 0111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>17
+</ObjectionValue><FitnessValue>17
+</FitnessValue><ProblemArguments> 17
+</ProblemArguments></BestAll><CurrentGeneration>7</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0100 0111 1111 1011 1001 0101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>18
+</ObjectionValue><FitnessValue>18
+</FitnessValue><ProblemArguments> 15
+</ProblemArguments></BestAll><CurrentGeneration>8</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0111 1111 1111 1011 1011 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>19
+</ObjectionValue><FitnessValue>19
+</FitnessValue><ProblemArguments> 21
+</ProblemArguments></BestAll><CurrentGeneration>9</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0111 1111 1111 1011 1011 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>21
+</ObjectionValue><FitnessValue>21
+</FitnessValue><ProblemArguments> 21
+</ProblemArguments></BestAll><CurrentGeneration>10</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0111 1111 1111 1011 1011 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>21
+</ObjectionValue><FitnessValue>21
+</FitnessValue><ProblemArguments> 21
+</ProblemArguments></BestAll><CurrentGeneration>11</CurrentGeneration></AfterIteration><AfterIteration><BestAll><Data>0111 1111 1111 1011 1011 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>21
+</ObjectionValue><FitnessValue>21
+</FitnessValue><ProblemArguments> 21
+</ProblemArguments></BestAll><CurrentGeneration>12</CurrentGeneration></AfterIteration><AfterAlgorithm><BestAll><Data>0111 1111 1111 1011 1011 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>21
+</ObjectionValue><FitnessValue>21
+</FitnessValue><ProblemArguments> 21
+</ProblemArguments></BestAll><CurrentGeneration>12</CurrentGeneration><DeJongOffLine>0.964285714285714</DeJongOffLine><DeJongOnLine>1.75</DeJongOnLine><ReportEaParameters><EaWebParams xmlns='EaWebParametersSchema.xsd'><Communication><Type>EaSequential</Type><TopologyFile>Topologies/EaTopology01.xml</TopologyFile><TopologyXml></TopologyXml><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService><RequestId>VLADO1-D:\Inetpub\wwwroot\EaWebApplication-4mg35dvml3t0hr55fauzq455</RequestId></Communication><Crossover><Type>CrossoverBinaryOnePoint</Type><Probability>0.95</Probability><UniformMaskProbability>0</UniformMaskProbability></Crossover><Finish><ItemsOr> FinishItemBestItemUnchangedForGenerations</ItemsOr><ItemsAnd> FinishItemIdle</ItemsAnd><NumberOfGenerations>100</NumberOfGenerations><BestItemUnchangedFor>2</BestItemUnchangedFor><BestFitnessUnchangedFor>2</BestFitnessUnchangedFor><ExecutionTimeDays>0</ExecutionTimeDays><ExecutionTimeHours>0</ExecutionTimeHours><ExecutionTimeMinutes>2</ExecutionTimeMinutes><ExecutionTimeSeconds>0</ExecutionTimeSeconds><ExecutionTimeMiliseconds>0</ExecutionTimeMiliseconds></Finish><Fitness><Type>FitnessIdle</Type><Value>0</Value><RemoveDuplicates>True</RemoveDuplicates></Fitness><Init><Type>InitBinary</Type></Init><Instance><Type>InstanceTheoryBinaryOneMax</Type></Instance><Mutation><Type>MutationBinaryOnePoint</Type><Probability>0.005</Probability></Mutation><NewGeneration><UseElitistStrategy>True</UseElitistStrategy><EliteNumber>1</EliteNumber></NewGeneration><Population><ItemType>ItemBinary</ItemType><ItemLenght>24</ItemLenght><Count>14</Count></Population><Problem><Type>ProblemTheory</Type><InputFile>Problems/OneMax.xml</InputFile><UseInput>True</UseInput></Problem><RandomGenerator><Type>RandomGenIntrisic</Type><UsePredefiniedSeed>True</UsePredefiniedSeed><Seed>7</Seed></RandomGenerator><ReportItems><AA> ReportItemBestAll ReportItemCurrentGeneration ReportItemDeJongOffLine ReportItemDeJongOnLine ReportItemEaParameters ReportItemFinishReason ReportItemFirstAll ReportItemIdle ReportItemOverallTime ReportItemProblemInput ReportItemTimeInAlgorithm ReportItemTimeInIteration</AA><AI> ReportItemBestAll ReportItemCurrentGeneration ReportItemIdle</AI><ASCrossover> ReportItemIdle</ASCrossover><ASFinish> ReportItemIdle</ASFinish><ASFitness> ReportItemIdle</ASFitness><ASInstance> ReportItemIdle</ASInstance><ASMutation> ReportItemIdle</ASMutation><ASProblem> ReportItemIdle</ASProblem><ASSelection> ReportItemIdle</ASSelection><Url>Reports/OneMax.xml</Url></ReportItems><Selection><Type>SelectionTournament</Type><Probability>1</Probability><UseDirectlyPassed>False</UseDirectlyPassed><PassedNumber>0</PassedNumber><RankOfBest>13</RankOfBest><RankOfWorst>7</RankOfWorst><Truncation>0.8</Truncation><Exponent>0.34</Exponent><TournamentSize>2</TournamentSize><FineGrainedTournamentSize>3.6</FineGrainedTournamentSize></Selection></EaWebParams></ReportEaParameters><FinishReason>Number of generations so best item remain unchanged is reached!</FinishReason><FirstAll><Data>0111 1111 1111 1011 1011 1111    
+</Data><IsValid>True
+</IsValid><ObjectionValue>21
+</ObjectionValue><FitnessValue>21
+</FitnessValue><ProblemArguments> 21
+</ProblemArguments></FirstAll><OverallTime><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>40</Miliseconds><Summary>00:00:00.0400576</Summary></OverallTime><ProblemUseInput>True</ProblemUseInput><ProblemArgumentsXml><!--Problem definition in file Problems/OneMax.xml --><EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">	<Problem>		<Description>One-Max Optimization</Description>		<Evaluate>			One Max		</Evaluate>	</Problem></EaProblemParameters></ProblemArgumentsXml><TimeInAlgorithm><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>30</Miliseconds><Summary>00:00:00.0300432</Summary></TimeInAlgorithm><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>20</Miliseconds><Summary>00:00:00.0200288</Summary></TimeInIteration></AfterAlgorithm></EaWebReport>

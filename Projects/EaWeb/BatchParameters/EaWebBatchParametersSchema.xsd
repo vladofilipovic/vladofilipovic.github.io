@@ -1,0 +1,18 @@
+<xsd:schema id="Batch" targetNamespace="EaWebBatchParametersSchema.xsd" xmlns="EaWebBatchParametersSchema.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xsd:element name="Batch" msdata:IsDataSet="true" msdata:EnforceConstraints="False">
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element name="Sequence">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="Id" type="xsd:unsignedInt" minOccurs="0" />
+							<xsd:element name="ParameterUrl" type="xsd:string" minOccurs="0" />
+							<xsd:element name="Repeat" type="xsd:unsignedInt" minOccurs="0" />
+							<xsd:element name="ReportUrl" type="xsd:string" minOccurs="0" />
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

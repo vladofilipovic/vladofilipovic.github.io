@@ -1,0 +1,39 @@
+<?xml version='1.0'?><!-- Parameters for invocation of EaWebService -->
+<EaWebParams xmlns='EaWebParametersSchema.xsd'>
+<Communication>
+<Type>EaSequential</Type><TopologyFile>Topologies/EaTopology01.xml</TopologyFile><TopologyXml></TopologyXml><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService>
+<RequestId>VLADO1-D:\Inetpub\wwwroot\EaWebApplication-jxoxacavn0j0kifj2odagsqu</RequestId>
+</Communication>
+<Crossover>
+<Type>CrossoverBinaryOnePoint</Type><Probability>0</Probability><UniformMaskProbability>0</UniformMaskProbability>
+</Crossover>
+<Finish>
+<ItemsOr> FinishItemNumberOfGenerations</ItemsOr><ItemsAnd> FinishItemNumberOfGenerations</ItemsAnd><NumberOfGenerations>100</NumberOfGenerations><BestItemUnchangedFor>1</BestItemUnchangedFor><BestFitnessUnchangedFor>1</BestFitnessUnchangedFor><ExecutionTimeDays>0</ExecutionTimeDays><ExecutionTimeHours>0</ExecutionTimeHours><ExecutionTimeMinutes>0</ExecutionTimeMinutes><ExecutionTimeSeconds>0</ExecutionTimeSeconds><ExecutionTimeMiliseconds>0</ExecutionTimeMiliseconds>
+</Finish>
+<Fitness><Type>FitnessIdle</Type><Value>0</Value><RemoveDuplicates>True</RemoveDuplicates>
+</Fitness>
+<Init><Type>InitBinary</Type></Init>
+<Instance><Type>InstanceFunctionOptimizationHardcodedBinary</Type></Instance>
+<Mutation><Type>MutationBinaryOnePoint</Type><Probability>0.005</Probability></Mutation>
+<NewGeneration>
+<UseElitistStrategy>True</UseElitistStrategy><EliteNumber>3</EliteNumber>
+</NewGeneration>
+<Population>
+<ItemType>ItemBinary</ItemType><ItemLenght>2</ItemLenght><Count>6</Count>
+</Population>
+<Problem>
+<Type>ProblemFunctionOptimizationHardcoded</Type><InputFile>Problems/EaWeb00.xml</InputFile><UseInput>True</UseInput>
+</Problem>
+<RandomGenerator>
+<Type>RandomGenIntrisic</Type><UsePredefiniedSeed>False</UsePredefiniedSeed><Seed>0</Seed>
+</RandomGenerator>
+<ReportItems>
+<AA> ReportItemBestAll ReportItemCurrentGeneration ReportItemDeJongOffLine ReportItemDeJongOnLine ReportItemEaParameters ReportItemFinishReason ReportItemFirstAll ReportItemIdle ReportItemOverallTime ReportItemProblemInput ReportItemTimeInAlgorithm ReportItemTimeInIteration</AA><AI> ReportItemIdle</AI><ASCrossover> ReportItemIdle</ASCrossover><ASFinish> ReportItemIdle</ASFinish><ASFitness> ReportItemIdle</ASFitness><ASInstance> ReportItemIdle</ASInstance><ASMutation> ReportItemIdle</ASMutation><ASProblem> ReportItemIdle</ASProblem><ASSelection> ReportItemIdle</ASSelection>
+<Url>Reports/EaWeb01.xml</Url>
+</ReportItems>
+<Selection>
+<Type>SelectionRoulette</Type><Probability>0.99</Probability>
+<UseDirectlyPassed>False</UseDirectlyPassed><PassedNumber>0</PassedNumber>
+<RankOfBest>0</RankOfBest><RankOfWorst>0</RankOfWorst><Truncation>0</Truncation>
+<Exponent>0</Exponent><TournamentSize>0</TournamentSize><FineGrainedTournamentSize>0</FineGrainedTournamentSize>
+</Selection></EaWebParams>

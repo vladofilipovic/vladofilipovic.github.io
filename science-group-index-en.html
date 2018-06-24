@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Modelling and optimization group - Faculty of Mathematics</title>
+    <meta charset='utf-8' />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.racunarstvo.matf.bg.ac.rs/novosti.rss.php?locale=sr_RS"
+    />
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext,cyrillic' rel='stylesheet'
+        type='text/css'>
+
+    <link rel='stylesheet' media='screen' href='_assets/styles/normalize.css' />
+
+    <!--[if !IE]><!-->
+    <link rel='stylesheet' media='screen' href='_assets/styles/common.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='_assets/styles/floating-logo.css' />
+    <link rel='stylesheet' media='screen and (min-width: 1224px)' href='_assets/styles/sr_RS/floating-logo.css' />
+
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='_assets/styles/desktop-wide.css' />
+    <link rel='stylesheet' media='screen and (min-width: 760px)' href='_assets/styles/sr_RS/desktop-wide.css' />
+
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='_assets/styles/mobile-landscape.css'
+    />
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='_assets/styles/sr_RS/mobile-landscape.css'
+    />
+
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='_assets/styles/mobile-portrait.css' />
+    <link rel='stylesheet' media='screen and (max-width: 499px)' href='_assets/styles/sr_RS/mobile-portrait.css' />
+    <!--<![endif]-->
+
+
+    <!-- Scripts -->
+    <script src='_assets/scripts/jquery-2.1.3.js'></script>
+    <script src='_assets/scripts/ui.js'></script>
+
+    <!--  Podesi klik preko opisa klase -->
+    <script>
+        $(document).ready(function(){
+            $('[class^=opis]').click(function() {
+                $('#toogle-' + this.className).toggle();
+             slideshow_init();
+            });
+    });
+    </script>
+
+    <!-- Addons -->
+    <link rel='stylesheet' media='screen' href='_assets/addons/slideshow/main.css' />
+    <script src='_assets/addons/slideshow/main.js'></script>
+    <script>
+        $(document).ready(function(){
+             slideshow_init();
+        });
+    </script>
+</head>
+
+<body onload="ui.init();">
+    <script>
+        $(function(){
+            // ucitaj meni na vrhu
+            $("#navigation").load("p-sg-navigation-en.html");
+            // ucitaj meni na podnozju
+            $("#footer").load("p-sg-footer-en.html");
+            // pokreni sljadove
+            slideshow_init();
+            });
+    </script>
+
+    <div id="content">
+        <!--[if IE]>
+    <iframe src="badie.html" width="100%" height="128" border="0"></iframe>
+    <![endif]-->
+        <div id="matf_logo">
+            <a href="http://www.matf.bg.ac.rs" target="_blank"><img src="_assets/images/sr_RS/matf-logo.png" /></a>
+        </div>
+        <div id="title">
+            <h2><a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"> Department for </a></h2>
+            <h1><a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"><span>Computer science and</span> <span>informatics</span></a></h1>
+        </div>
+
+        <div id="navigation">
+        </div>
+
+        <div id="page">
+            <h1>Modelling and optimization group</h1>
+            <p>
+                Researchers in this group work on mathematical modelling and solving of the complex optimization problems, as well as mathematical
+                modeling and improving of the various metaheuristic optimization methods. Optimization problems (from combinatorial
+                and global domain) that are considered have great practical importance and they are used (beside “pure” operational
+                research) in various parts of computer science: machine learning, classification, case-based reasoning, bioinformatics,
+                etc.
+            </p>
+            <p>
+                Problems from various groups are successfully solved (and still are solving):
+                <ul>
+                    <li>
+                        Location problems – problem is to decide where to locate warehouse or hub in order to achieve that all consumers are supplied
+                        and the overall cost is minimal;
+                    </li>
+                    <li>
+                        Transport problems – how to optimally visit all location with given vehicles in order to have minimal expenses;
+                    </li>
+                    <li>
+                        Job scheduling problems – for instance, how to achieve fast file transfer through computer network;
+                    </li>
+                    <li>
+                        Assignment problems – for instance, objective is to assign devices to locations so that the sum of products between flows
+                        and distances is minimal or to assign tasks to processor in order to achieve minimal overall costs;
+                    </li>
+                    <li>
+                        Selection problems – for instance, optimally select super-peers in P2P network;
+                    </li>
+                    <li>
+                        Graph partition problems – determining maximally balanced partition in graph; determining maximally connected partition in
+                        graph;
+                    </li>
+                    <li>
+                        Graph coloring problems – for instance, coloring graph vertexes (simple and multicolor) in respect to bandwidth;
+                    </li>
+                    <li>
+                        Set partition problems – how to create set partition so family of the subsets of that set have maximal intersection with
+                        the created partition;
+                    </li>
+                    <li>
+                        Satisfiability problems – more precisely, problem of probabilistic satisfiability p-SAT;
+                    </li>
+                    <li>
+                        Wireless sensor network problems - more precisely, how to design wireless sensor network in order to achieve minimal energy
+                        consumption;
+                    </li>
+                    <li>
+                        Case-based reasoning problems;
+                    </li>
+                    <li>
+                        Classification and data mining problems – classification method adjustment problem; dimensionality reduction problem; cluster
+                        analysis problem;
+                    </li>
+                    <li>
+                        Dimensional reduction problems - for instance, feature selection problem;
+                    </li>
+                    <li>
+                        Parameter selection problems - for instance, determination of parameters in kernel learning methods;
+                    </li>
+                    <li>
+                        Feature weighting problems - assignment of importance coefficients to features during classification process;
+                    </li>
+                    <li>
+                        etc.
+                    </li>
+                </ul>
+            </p>
+            <p>
+                There are two fundamental approaches in optimization:
+                <ul>
+                    <li>
+                        <strong>Exact</strong> problem solving, which incorporates creating of the mathematical model (it
+                        is usually an ILP model) for given optimization problem and implementation of created mathematical
+                        model in some modern solver (for instance, in CPLEX and GUROBI). Mathematical models for following
+                        problems are designed so far: Maximum set partition problem (MSSP), Two dimensional packing problem,
+                        Quadratic assignment problem (QAP), File transfer scheduling problem (FTSP), several domination problems
+                        in graphs, etc.
+                    </li>
+                    <li>
+                        For complex and/or high-dimensional problems, often is necessary to use (beside exact approach) the
+                        <strong>metaheuristic</strong>> methods. These methods can be population methods (Genetic algorithms,
+                        Electromagnetism-like metaheuristics, Ant colonies etc.) and local search based methods (Variable
+                        neighborhood search, Tabu search etc.).
+                    </li>
+                </ul>
+            </p>
+            <p>
+                Researchers in this group are dealing with metaheuristics modifications and improvements:
+                <ul>
+                    <li>
+                        New operators are introduced – fine grained tournament selection in Genetic algorithms is proposed, its characteristics are
+                        described, as well as results that are obtained during solving various optimization problems.
+                    </li>
+                    <li>
+                        Cashing is introduced and successfully used – cashing of the individual’s genetic code and cashing of the objective function
+                        value for the points in search space within various metaheuristic optimization methods, including
+                        genetic algorithms and electromagnetism-like metaheuristics.
+                    </li>
+                    <li>
+                        Hybrid methods, that combine good features of different approaches, are designed and used. Those methods often achieve excellent
+                        results when they are applied to a practical problem.
+                    </li>
+                </ul>
+            </p>
+            <p>
+                Methods that are developed are used as auxiliary tool in solving various mathematical problems, dominantly for graph problems
+                (for instance, determining of the metric dimension and domination numbers for various graph classes).
+            </p>
+            <p>
+                Members of the modelling and optimization group are intensively working on parallelization of previously mentioned methods,
+                which also includes distributed optimization methods.
+            </p>
+            <h2 id="science"> Scientific work </h2>
+            <h3> Monograph </h3>
+            <ol>
+                <li>
+                    Stanimirović Zorica, Kratica Jozef, Filipović Vladimir and Tošić Dušan, Evolutionary approach for Solving Hab Location Problems
+                    (in Serbian), Zavod za udžbenike, Belgrade, 2011.
+                </li>
+            </ol>
+            <h3>Papers published in top international journals</h3>
+            <ol>
+                <li>
+                    Kratica Jozef, Stanimirović Zorica, Tošić Dušan and Filipović Vladimir,
+                    <a href="http://www.sciencedirect.com/science/article/pii/S0377221706006163" target="_blank">
+                    Two Genetic Algorithms for Solving the Uncapacitated Single Allocation p-Hub Median Problem </a>,
+                    European Journal of Operational Research – EJOR, 182, pp. 15-28, 2006.
+                </li>
+                <li>Filipović Vladimir, Kartelj Aleksandar and Matić Dragan,
+                    <a href="http://www.sciencedirect.com/science/article/pii/S1568494612004668" target="_blank">
+                    An electromagnetism metaheuristic for solving the Maximum Betweenness Problem </a>,
+                    Applied Soft Computing, Vol. 13, Iss. 2, pp. 1303–1313, 2013.
+                </li>
+            </ol>
+            <h3>Papers published in international journals</h3>
+            <ol>
+                <li>
+                    Kratica Jozef, Tošić Dušan, Filipović Vladimir and Ljubić Ivana,
+                    <a href="https://eudml.org/doc/105234" target="_blank">
+                    Solving the Simple Plant Location Problem by Genetic Algorithms</a>, RAIRO - Operations
+                    Research, Vol. 35, No. 1, pp. 127-142, 2001.
+                </li>
+                <li> Filipović Vladimir,
+                    <a href="http://www.sav.sk/index.php?lang=en&charset=ascii&doc=journal&part=list_articles&journal_issue_no=1512" target="_blank">
+                Fine-grained Tournament Selection Operator in Genetic Algorithms</a>, Computers and Informatics,
+                    Vol. 22, No. 2, pp. 143-162, 2003.
+                </li>
+                <li>
+                    Kratica Jozef, Stanimirović Zorica, Tošić Dušan and Filipović Vladimir,
+                    <a href="http://www.sav.sk/index.php?lang=en&charset=ascii&doc=journal&part=list_articles&journal_issue_no=1602" target="_blank">
+                    Genetic Algorithm for Solving Uncapacitated Multiple Allocation Hub Location Problem</a>,
+                    Computing and Informatics, Vol. 24 No 4, pp. 415-426, 2005.
+                </li>
+                <li>
+                    Đurić Brankica, Kratica Jozef, Tošić Dušan and Filipović Vladimir,
+                    <a href="http://www.sav.sk/index.php?lang=en&charset=ascii&doc=journal&part=list_articles&journal_issue_no=2120" target="_blank">
+                    Solving the maximally balanced connected partition problem in graphs by using genetic algorithm</a>,
+                    Computing and Informatics, Vol. 27 No 3, pp. 341-354, 2008.
+                </li>
+                <li>
+                    Kratica Jozef, Kostić Tijana, Tošić Dušan, Dugošija Đorđe and Filipović Vladimir,
+                    <a href="http://www.doiserbia.nb.rs/Article.aspx?ID=1820-02141100067K" target="_blank">
+                    A genetic algorithm for the routing and carrier selection problem </a>, Computer
+                    Science and Information Systems – COMSIS, Vol. 9 No 1, pp. 49-62, 2012.
+                </li>
+                <li>
+                    Lazović Bojana, Marić Miroslav, Filipović Vladimir and Savić Aleksandar,
+                    <a href="https://www.emis.de/journals/PIMB/106/2.html" target="_blank">
+                    An integer linear programming formulation and genetic algorithm for the maximum set splitting problem </a>,
+                    Publications de l'Institut Mathématique, Vol. 92, Iss. 106, pp. 25-34, 2012.
+                </li>
+                <li>
+                    Nikolić Zorana, Brajušković Goran, Savić Dušanka, Kojić Aleksandra, Vujović Vinka, Tomović Saša, Cerović Snežana, Filipović
+                    Vladimir, Mišljenović Đura and Romac Stanka,
+                    <a href="http://www.ijcem.com/1210001A.html" target="_blank">                   
+                    Assessment of possible association
+                    between rs3787016 and prostate cancer risk in Serbian population</a>, International
+                    Journal of Clinical and Experimental Medicine, Vol. 6, No. 1, pp. 57-66, 2013.
+                </li>
+                <li>
+                    Kartelj Aleksandar, Mitić Nenad, Filipović Vladimir and Tošić Dušan,
+                    <a href="http://link.springer.com/article/10.1007/s00500-013-1180-x" target="_blank"> Electromagnetism-like
+                    Algorithm for Support Vector Machine Parameter Tuning</a>, Soft Computing, Vol. 18,
+                    Iss. 10, pp. 1985-1998, 2013.
+                </li>
+                <li> Savić Aleksandar, Kratica Jozef and Filipović Vladimir,
+                    <a href="https://www.emis.de/journals/PIMB/107/7.html" target="_blank">
+                    A New Nonlinear Model for the Two-Dimensional Rectangle Packing Problem </a>, Publications
+                    de l'Institut Mathématique, Vol. 93, Iss. 107, pp. 95-107, 2013.
+                </li>
+                <li>
+                    Kartelj Aleksandar, Šurlan Nebojša and Cekić Zoran,
+                    <a href="http://www.ingentaconnect.com/content/mcb/067/2014/00000043/00000002/art00007" target="_blank"> Case-based 
+                    Reasoning and Electromagnetism-like Algorithm in Construction Management</a>, Kybernetes:
+                    The International Journal of Systems & Cybernetics, Vol. 42, No. 2, pp. 265-280, 2014.
+                </li>
+                <li>
+                    Dražić Zorica, Savić Aleksandar and Filipović Vladimir,
+                    <a href="http://link.springer.com/article/10.1007/s11750-013-0312-x" target="_blank"> An integer linear formulation
+                    for the file transfer scheduling problem</a>, TOP, Vol. 22, Iss. 3, pp. 1062-1073,
+                    2014.
+                </li>
+                <li>
+                    Kartelj Aleksandar,
+                    <a href="http://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15423980&AN=108683362&h=xq5YBb%2bLZ8n%2fwoG6xa%2fk4zLUXG%2fDt%2fPK57L8yIM9glWW8VARk9TVgDkz9gYaAxHagjSWnDxg4T3t5dZhaSJG7w%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d15423980%26AN%3d108683362"
+                        target="_blank"> An Improved Electromagnetism-like Method for Feature Selection</a>,
+                    Journal of Multiple Valued Logic and Soft Computing, Vol. 25, Iss. 2/3, pp. 169-187, 2015.
+                </li>
+                <li>
+                    Matić Dragan, Kratica Jozef and Filipović Vladimir,
+                    <a href="http://www.comsis.org/archive.php?show=ppr586-1603" target="_blank">
+                    Variable Neighborhood Search for solving Bandwidth Coloring Problem </a>, 
+					Computer Science and Information Systems, Vol. 14, Iss. 2, pp. 309-327, 2017.
+                </li>
+      </ol>
+            <h3> Chapters in monographic series </h3>
+            <ol>
+                <li>
+                    Kratica Jozef, Tošić Dušan, Filipović Vladimir and Ljubić Ivana,
+                    <a href=" http://link.springer.com/chapter/10.1007%2F978-1-4471-0123-9_28" target="_blank"> 
+                    A Genetic Algorithm for the Uncapacitated Network Design Problem</a>, Soft Computing
+                    in Industry – Recent Applications, pp. 329-338, Springer, 2002.
+                </li>
+                <li> Filipović Vladimir, Kratica Jozef, Tošić Dušan and Dugošija Đorđe,
+                    <a href="http://link.springer.com/chapter/10.1007%2F978-3-540-89619-7_15?LI=true" target="_blank"> 
+                    GA Inspired Heuristic for Uncapacitated Single Allocation Hub Location Problem</a>,
+                    Applications of Soft Computing - Advances in Soft Computing, Vol. 58/2009, pp. 149-158, Springer, 2009.
+                </li>
+                <li>
+                    Kratica Jozef, Kojić Jelena, Tošić Dušan, Filipović Vladimir and Dugošija Đorđe,
+                    <a href="http://www.springerlink.com/content/534526612m462212/" target="_blank"> 
+                    Two Hybrid Genetic Algorithms for Solving the Super-Peer Selection Problem</a>, Applications
+                    of Soft Computing - Advances in Soft Computing, Vol. 58/2009, pp. 337-346, Springer, 2009.
+                </li>
+            </ol>
+            <!--
+			<h3>Under review</h3>
+            <ol>
+                <li>
+                </li>
+            </ol>
+			-->
+            <h2 id="other">Other publications </h2>
+            <h3>Papers published in the top national journals</h3>
+            <ol>
+                <li>
+                    Matić Dragan, Filipović Vladimir, Savić Aleksandar and Stanimirović Zorica,
+                    <a href="http://scindeks.ceon.rs/article.aspx?artid=1450-96281135119M&lang=en" target="_blank">
+                    A Genetic Algorithm for Solving Multiple Warehause Layout Problem</a>, Kragujevac
+                    Journal of Mathematics, Issue 35 Vol. 1, pp. 119-138, 2011.
+                </li>
+                <li>
+                    Savić Aleksandar, Šukilović Tijana and Filipović Vladimir,
+                    <a href="http://yujor.fon.bg.ac.rs/index.php/journal/article/view/840" target="_blank">
+                    Solving the Two-Dimensional Packing Problem With m-M Calculus </a>, Yugoslav Journal
+                    of Operations Research – YUJOR, Vol. 21 No. 1, pp. 93-102, 2011.
+                </li>
+                <li> Kratica Jozef, Tošić Dušan, Filipović Vladimir and Dugošija Đorđe,
+                    <a href="http://yujor.fon.rs/index.php/journal/article/view/951" target="_blank">
+                    A New Genetic Representation for Quadratic Assignment Problem </a>, Yugoslav Journal
+                    of Operations Research – YUJOR, Vol. 21 No. 2, pp. 225-238, 2011.
+                </li>
+                <li> Kartelj Aleksandar,
+                    <a href="http://www.yujor.fon.bg.ac.rs/index.php/journal/article/view/1013" target="_blank">
+                    Electromagnetism Metaheuristic Algorithm for Solving The Strong Minimum Energy Topology Problem, </a>,
+                    Yugoslav Journal of Operations Research – YUJOR, Vol. 23, pp. 43-57, 2013.
+                </li>
+            </ol>
+            <h3>Papers published in the national journals</h3>
+            <ol>
+                <li>
+                    Tošić Dušan, Filipović Vladimir and Kratica Jozef,
+                    <a href=" http://elib.mi.sanu.ac.rs/pages/browse_issue.php?db=ncd&rbr=9" target="_blank">
+                    Using SVG–XML for representation of historical graphical data</a>, Review of the
+                    National Center for Digitization, Vol. 9, pp. 39-45, 2006.
+                </li>
+                <li> Tošić Dušan, Filipović Vladimir, Tuba Milan and Kratica Jozef,
+                    <a href="http://elib.mi.sanu.ac.rs/pages/browse_issue.php?db=ncd&rbr=10" target="_blank">
+                    Potential Role of SMIL in Digitalization of National Heritage</a>, Review of the
+                    National Center for Digitization, Vol. 10, pp. 33-39, 2007.
+                </li>
+                <li> Kratica Jozef, Savić Aleksandar, Filipović Vladimir and Milanović Marija,
+                    <a href="http://sci-gems.math.bas.bg/jspui/handle/10525/1604" target="_blank">
+                    Solving the Task Assignment Problem with a Variable Neighborhood Search</a>, Serdica
+                    Journal of Computing, Vol. 4 No. 4, pp. 435-446, 2010.
+                </li>
+                <li> Kartelj Aleksandar,
+                    <a href="http://sci-gems.math.bas.bg/jspui/handle/10525/1349" target="_blank">
+                    Classfication of Smoking Cessation Status Using Various Data Mining Methods</a>,
+                    Mathematica Balkanica, Vol. 24, pp. 199-205, 2010.
+                </li>
+                <li> Filipović Vladimir,
+                    <a href="http://sci-gems.math.bas.bg/jspui/handle/10525/1628" target="_blank">          
+                    An Electromagnetism Metaheuristic for the Uncapacitated Multiple Allocation
+                    Hub Location Problem</a>, Serdica Journal of Computing, Vol. 5 No. 3, pp. 261-272,
+                    2011.
+                </li>
+                <li> Matić Dragan, Kratica Jozef , Filipović Vladimir and Dugošija Đorđe,
+                    <a href="http://www.sciencedirect.com/science/article/pii/S1571065312000236" target="_blank">
+                    Variable neighborhood search for Multiple Level Warehouse Layout Problem </a>, Electronic
+                    Notes in Discrete Mathematics, Vol. 39, pp. 161-168, 2012.
+                </li>
+                <li>
+                    Filipović Vladimir, Zagarčanin Mladen, Tošić Dušan and Stanišić Sanja,
+                    <a href="http://elib.mi.sanu.ac.rs/pages/browse_issue.php?db=ncd&rbr=23" target="_blank">
+                      Digitalization in the Bar County Museum – Pilot Project</a>, Review of the National
+                    Center for Digitization, Vol. 23, pp. 57-66, 2013.
+                </li>
+                <li>
+                    Filipović Vladimir, 
+                    <a href="https://ojs.pmf.uns.ac.rs/index.php/dbe_serbica/article/view/6528" target="_blank">
+                      Optimization, classification and dimensionality reduction in biomedicine and bioinformatics</a>, 
+					  Biologia Serbica, Vol. 39, No. 1, pp. 83-98, 2017.
+                </li>
+       </ol>
+            <h3>From international conferences, published in proceedings</h3>
+            <ol>
+                <li>
+                    Kratica Jozef, Filipović Vladimir, Šešum Vesna and Tošić Dušan, Solving of the uncapacitated warehouse location problem using
+                    a simple genetic algorithm, Proceedings of the XIV ECPD International Conference on Material handling
+                    and warehousing, pp. 3.33-3.37, Belgrade, 1996.
+                </li>
+                <li>
+                    Filipović Vladimir, Tošić Dušan, Urošević Dragan and Kratica Jozef, General parallel algorithm to the solution of the geophisical
+                    inversion problem applied to the transputer system, Proceedings of the VII Conference on Logic and Computer
+                    Science LIRA ‘97 - Separate Volume, pp. A3-A8, Novi Sad, Yugoslavia, 1997.
+                </li>
+                <li>
+                    Kratica Jozef, Tošić Dušan, Filipović Vladimir and Ljubić Ivana,
+                    <a href="Science/Papers/Kratic00a.pdf" target="_blank">
+                    Genetic Algorithm for Designing a Spread-Spectrum Radar Polyphase Code</a>, Proceedings
+                    of the 5th Online World Conference on Soft Computing in Industrial Applications WSC5, pp. 191-197, 2000.
+                </li>
+                <li> Filipović Vladimir, Kratica Jozef, Tošić Dušan and Ljubić Ivana,
+                    <a href="Science/Papers/Filipo00a.pdf" target="_blank">
+                    Fine Grained Tournament Selection for the Simple Plant Location Problem </a>, Proceedings
+                    of the 5th Online World Conference on Soft Computing in Industrial Applications WSC5, pp. 152-158, 2000.
+                </li>
+                <li> Kratica Jozef, Tošić Dušan, Filipović Vladimir and Ljubić Ivana,
+                    <a href="Science/Papers/Kratic01a.pdf" target="_blank">
+                    Comparing Performances of Several Algorithms for Solving the Simple Plant Location Problem</a>,
+                    Proceedings of the 10th Congress of Yugoslav Mathematicians, Belgrade, Yugoslavia, pp. 337-341, 2001.
+                </li>
+                <li> Filipović Vladimir, Tošić Dušan and Kratica Jozef,
+                    <a href="Science/Papers/Filipo01a.pdf" target="_blank">
+                    Experimental Results in applying of Fine Grained Tournament Selection</a>, Proceedings
+                    of the 10th Congress of Yugoslav Mathematicians, Belgrade, Yugoslavia, pp. 331-336, 2001.
+                </li>
+                <li> Filipović Vladimir, Tošić Dušan and Kratica Jozef,
+                    <a href="http://www.symopis2013.fon.bg.ac.rs/wp-content/uploads/Jubilej/XXX%20Simpozijum%20o%20operacionim%20istraživanjima.pdf"
+                        target="_blank">
+                Parallel Evolutionary Algorithm Web Service</a>, Proceedings of the XXX SYM-OP-IS 2003,
+                    pp. 292-295, Herceg Novi, 2003.
+                </li>
+                <li> Filipović Vladimir, Kratica Jozef, Savić Aleksandrar and Dugošija Đorđe,
+                    <a href="http://dl.acm.org/citation.cfm?id=2371365" target="_blank">
+                    The modification of genetic algorithms for solving the balanced location problem</a>,
+                    ACM International Conference Proceeding Series - 5th Balkan Conference in Informatics BCI 2012 , pp.
+                    243-246, 2012.
+                </li>
+                <li> Kartelj Aleksandar, Filipović Vladimir and Milutinović Veljko,
+                    <a href=" http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6240793&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6240793"
+                        target="_blank">
+                    Novel approaches to automated personality classification: Ideas and their potentials</a>,
+                    Proceedings of the 35th International Convention MIPRO 2012, pp. 1017 - 1022, 2012.
+                </li>
+            </ol>
+
+            <h3>From international conferences, published in book of abstracts</h3>
+            <ol>
+                <li>
+                    Grbić Milana, Kartelj Aleksandar, Matić Dragan and Filipović Vladimir,
+                    <a href="http://alas.matf.bg.ac.rs/~websites/bioinfo/?page_id=267" target="_blank">
+                        Improving 1NN strategy for classification of some procaryotic organisms, 
+                        Book of abstracts, Belgrade Bioinformatic Conference (BelBI) 2016, pp. 57-58, 
+                        Belgrade, 2016.  
+                        </a>
+                </li>
+            </ol>
+
+            <h3>From national conferences, published in proceedings (in Serbian)</h3>
+            <ol>
+                <li>
+                    Radojević Slobodan, Vugdelija Milan, Kratica Jozef and Filipović Vladimir, Ograničavanje stvaranja aplikativnih objekata
+                    u proizvodnim informacionim sistemima, Zbornik radova sa 22. JUPITER konferencije, pp. 4.13-4.16, Beograd,
+                    1996.
+                </li>
+                <li>
+                    Filipović Vladimir, Kratica Jozef, Radojević Slobodan and Vugdelija Milan, Uticaj binarnog kodiranja na genetske algoritme
+                    za nalaženje ekstremnih vrednosti, Zbornik radova sa X međunarodne konferencije o industrijskim sistemima,
+                    pp. 193-198, Novi Sad, 1996.
+                </li>
+                <li> Radojević Slobodan, Kratica Jozef, Vugdelija Milan and Filipović Vladimir, Klasifikacija lambda-nula izraza
+                    relacijom denotacije, Naučni simpozijum XXIII YU-SYM-OP-IS, pp. 292-295, Zlatibor, 1996.
+                </li>
+                <li> Kratica Jozef, Radojević Slobodan, Filipović Vladimir and Šćepanović Ana, Primena epsilon-transformacije
+                    u problemu pretrage drveta, Međunarodni naučno-razvojni simpozijum: Stvaralaštvo kao uslov privrednog
+                    razvoja - Nove tehnologije and tehnike u službi čoveka, pp. 2.61-2.66, Beograd, 1996.
+                </li>
+                <li>
+                    Filipović Vladimir, Određivanje performansi genetskih algoritama u teoriji and praksi, Prolećna škola o programskim jezicima
+                    - Tekstovi predavanja, pp. 131-141, Novi Sad, 1997.
+                </li>
+                <li> Ljubić Ivana, Kratica Jozef and Filipović Vladimir, Primena genetskih algoritama u nalaženju minimalnog Štajnerovog
+                    stabla, Proceedings of the Second International Symposium of Industrial Engineering SIE ’98, pp. 277-280,
+                    Belgrade, 1998.
+                </li>
+                <li>
+                    Kratica Jozef, Ljubić Ivana, Šešum Vesna and Filipović Vladimir, Neke metode za rešavanje problema trgovačkog putnika pomoću
+                    genetskog algoritma, Proceedings of the Second International Symposium of Industrial Engineering SIE
+                    ’98, pp. 281-284, Belgrade, 1998.
+                </li>
+                <li>
+                    Maksimović Darko, Filipović Vladimir,
+                    <a href="http://alas.matf.bg.ac.rs/~konferencija/zbornik2013.pdf" target="_blank">
+                    Softver "Lenjir and šestar" and njegovo korišćenje u nastavi matematike </a>, Zbornik
+                    radova sa četvrtog simpozijuma "Matematika and primene", pp. 158-169, Beograd, 2013.
+                </li>
+                <li>
+                    Matić Dragan, Kratica Jozef and Filipović Vladimir,
+                    <a href="http://www.mk.rs.ba/wp-content/uploads/2015/02/TOM2-Copy.pdf" target="_blank">
+                    Poboljšavanje nastavnog plana optimizovanjem broja pokrivenih tematskih oblasti po semestrima</a>,
+                    Treća matematička konferencija Republike Srpske - Zbornik radova, Tom 2, pp. 11-21, Trebinje, 2014.
+                </li>
+            </ol>
+            <h3>From national conferences, abstract published (in Serbian)</h3>
+            <ol>
+                <li>
+                    Filipović Vladimir, Realizacija jednog iterativnog metoda na transpjuterskom sistemu, Zbornik apstrakata sa simpozijuma SINFON
+                    ‘94, pp. 41, Zlatibor, 1994. This paper is awarded as the best paper in its section.
+                </li>
+                <li> Filipović Vladimir, Realizacija genetskog algoritma, Zbornik apstrakata sa simpozijuma SINFON ‘95, pp. 46,
+                    Zlatibor, 1995.
+                </li>
+                <li> Filipović Vladimir and Tošić Dušan, Comparasion of Selection Operators in Genetic Algorithms for the Function
+                    Optimization, Abstracts of XI Conference on Applied Mathematics - PRIM ‘96, pp. 94, Budva, 1996.
+                </li>
+                <li>
+                    Fijuljanin Jasmina, Kartelj Aleksandar and Коjić Jelena,
+                    <a href="http://www.mi.sanu.ac.rs/conferences/Sced_ProbLogic_Bg11.pdf#page=21" target="_blank">
+                    Electromagnetism metaheuristic for probabilistic satisfiability problem </a>, Зборник
+                    апстраката са симпозијума Вероватносне логике и њене примене, ст. 22-23, Математички Институт САНУ, Београд,
+                    2011.
+                </li>
+                <li>
+                    Kartelj Aleksandar,Filipović Vladimir and Milutinović Veljko, Automatizovana klasifikacija ličnosti, Zbornik apstrakata sa
+                    simpozijuma YU INFO 2012, pp. 49, Kopaonik, 2012.
+                </li>
+                <li>
+                    Matić Dragan, Filipović Vladimir and Kratica Jozef,
+                    <a href="http://www.mk.rs.ba/wp-content/uploads/2014/01/Knjiga-rezimea-ČETVRTA-MAT-KONF.pdf" target="_blank">
+                    Pregled metoda za rješavanje problema maksimalno balansirane povezane particije u grafu </a>,
+                    Četvrta matematička konferencija Republike Srpske - Knjiga rezimea, pp. 73, Trebinje, 2014.
+                </li>
+                <li>
+                    Filipović Vladimir, Kartelj Aleksandar and Matić Dragan,
+                    <a href="http://www.mk.rs.ba/wp-content/uploads/2014/01/Spojeno.pdf" target="_blank">
+                    Primena keširanja u metaheuristici zasnovanoj na elektromagnetizmu</a>, Peta matematička
+                    konferencija Republike Srpske - Knjiga rezimea, pp. 42, Trebinje, 2015.
+                </li>
+            </ol>
+            <h2 id="colaboration"> Collaboration </h2>
+            <h3> <a href="http://www.gecko.rs" target="_blank">Gecko</a> </h3>
+            <p>
+                Collaboration with engineers within company in designing algorithm for transportation problem. </p>
+
+            <h3> <a href="http://www.cesid.rs" target="_blank">CeSID</a> </h3>
+            <p>Statistical Processing and Analysis Software (SPAS).</p>
+            <p>Sampling and statistical analysis in elections.</p>
+            <p>Software for automated recognition and analysis of paper inquiries (RECO).</p>
+            <h3> <a href="http://www.directmedia.rs" target="_blank"> Direct Media agency</a> </h3>
+            <p>
+                Media Mix Optimizer - marketing investment portfolio optimization (MMO)</p>
+        </div>
+    </div>
+
+    <!-- <div id="testing-output"><span> style</span></div> -->
+    <div id="presentation_mode">
+        <!-- This is used from JS to test the presentation size -->
+    </div>
+    <div id="footer">
+    </div>
+</body>
+
+</html>

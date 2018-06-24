@@ -1,0 +1,9 @@
+<!--Problem definition in file Problems/Deceptive.xml -->
+<EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">
+	<Problem>
+		<Description>Deceptive Optimization</Description>
+		<Evaluate>
+			Deceptive
+		</Evaluate>
+	</Problem>
+</EaProblemParameters>

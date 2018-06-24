@@ -1,0 +1,68 @@
+/* Calculating other colors */
+div#content div#matf_logo {
+  float: left;
+  margin-right: 16px;
+  margin-left: -174px; }
+div#content div#title {
+  color: white; }
+  div#content div#title h2, div#content div#title h1 {
+    margin: 0;
+    padding: 0; }
+  div#content div#title h2 {
+    padding-top: 75px;
+    text-transform: uppercase;
+    font-size: 15px;
+    height: 24px; }
+  div#content div#title h1 {
+    font-size: 32px;
+    height: 53px; }
+div#content div#navigation h2.navigation_title {
+  display: none; }
+div#content div#navigation ul.navigation_list {
+  margin: 0;
+  padding: 0;
+  margin-top: 8px;
+  list-style-type: none; }
+  div#content div#navigation ul.navigation_list li {
+    float: left;
+    margin-right: 16px;
+    margin-left: -8px;
+    padding: 0 8px; }
+    div#content div#navigation ul.navigation_list li a {
+      text-decoration: none;
+      color: #333;
+      padding-bottom: 4px;
+      font-size: 1.1em; }
+      div#content div#navigation ul.navigation_list li a.navigation_section_title {
+        background-image: url(http://www.racunarstvo.matf.bg.ac.rs/_assets/images/navigation-arrow-down.png);
+        background-position: bottom;
+        background-repeat: no-repeat; }
+      div#content div#navigation ul.navigation_list li a:HOVER, div#content div#navigation ul.navigation_list li a.navigation_section_title_active {
+        border-bottom: 4px solid #686464;
+        color: #8e1818;
+        background: none; }
+  div#content div#navigation ul.navigation_list ul.navigation_section_items {
+    list-style-type: none;
+    position: absolute;
+    background-color: #303030 !important;
+    color: black;
+    padding: 0.5em 0;
+    margin: 0;
+    margin-top: 7px;
+    visibility: hidden;
+    opacity: 0; }
+    div#content div#navigation ul.navigation_list ul.navigation_section_items li {
+      float: none;
+      display: block;
+      margin: 0;
+      padding: 0; }
+      div#content div#navigation ul.navigation_list ul.navigation_section_items li a {
+        padding: 0 16px;
+        display: block;
+        color: white;
+        border: none; }
+        div#content div#navigation ul.navigation_list ul.navigation_section_items li a:HOVER {
+          background-color: #686464 !important;
+          color: white; }
+
+/*# sourceMappingURL=floating-logo.css.map */

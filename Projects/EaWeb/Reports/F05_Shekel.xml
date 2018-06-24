@@ -1,0 +1,886 @@
+<?xml version='1.0'?><!--Report: Timestamp 2002 04 26 18:55:06:378 --><EaWebReport xmlns='EaWebReportsSchema.xsd'><AfterIteration><CurrentGeneration>1</CurrentGeneration><DeJongOffLine>0.0298437885689372</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0.000200000492117703
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>921</Miliseconds><Summary>00:00:00.9213248</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>2</CurrentGeneration><DeJongOffLine>0.029750038338257</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0110 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.4950390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1000 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3748984375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1010 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3707734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>791</Miliseconds><Summary>00:00:00.7911376</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>3</CurrentGeneration><DeJongOffLine>0.0297187882613636</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0111 1111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -45.0707734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 0101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3748359375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>791</Miliseconds><Summary>00:00:00.7911376</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>4</CurrentGeneration><DeJongOffLine>0.0297031632229169</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 0101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3748359375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0000 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.6870390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1110 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5550390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0110 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.4950390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>821</Miliseconds><Summary>00:00:00.8211808</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>5</CurrentGeneration><DeJongOffLine>0.0296937881998489</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1010 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.559046875 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1010 0100 1100 0111 1011 1010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -52.0710390625 18.1612265625
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0101 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.4387734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 1010 0011 0111 1000 1011 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 18.1614765625
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1001 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3727734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>811</Miliseconds><Summary>00:00:00.8111664</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>6</CurrentGeneration><DeJongOffLine>0.0296875381844702</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 0101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3748359375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1101 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3742734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0000 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.6870390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0101 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5592890625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>821</Miliseconds><Summary>00:00:00.8211808</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>7</CurrentGeneration><DeJongOffLine>0.0296830738877712</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 1111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5580390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 1100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.3030390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0011 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.5027734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1010 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3707734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1001 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590546875 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1010 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.559046875 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>801</Miliseconds><Summary>00:00:00.8011520</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>8</CurrentGeneration><DeJongOffLine>0.0296797256652469</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1001 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3727734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 0100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5750390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>801</Miliseconds><Summary>00:00:00.8011520</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>9</CurrentGeneration><DeJongOffLine>0.0296771214921724</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3748046875
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1010 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3707734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0110 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.4950390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0101 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5270390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1100 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3667734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>831</Miliseconds><Summary>00:00:00.8311952</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>10</CurrentGeneration><DeJongOffLine>0.0296750381537129</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 1100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.3030390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 1111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5580390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>811</Miliseconds><Summary>00:00:00.8111664</Summary></TimeInIteration></AfterIteration><AfterIteration><CurrentGeneration>11</CurrentGeneration><DeJongOffLine>0.0296733336040641</DeJongOffLine><DeJongOnLine>0.474500609721229</DeJongOnLine><PopulationAll><Item><Id>0</Id><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></Item><Item><Id>1</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0101 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.4387734375
+</ProblemArguments></Item><Item><Id>2</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>3</Id><Data>0001 1011 0100 1100 0111 1010 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.559046875 -47.3747734375
+</ProblemArguments></Item><Item><Id>4</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>5</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1100 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3667734375
+</ProblemArguments></Item><Item><Id>6</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>7</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>8</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>9</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>10</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 1111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.1187734375
+</ProblemArguments></Item><Item><Id>11</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>12</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>13</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>14</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item><Item><Id>15</Id><Data>0001 1011 0100 1100 0111 1011 0010 0011 0111 1000 1001 1101    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.000200000492117703
+</ObjectionValue><FitnessValue>0
+</FitnessValue><ProblemArguments> -51.5590390625 -47.3747734375
+</ProblemArguments></Item></PopulationAll><TimeInIteration><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>0</Seconds><Miliseconds>811</Miliseconds><Summary>00:00:00.8111664</Summary></TimeInIteration></AfterIteration><AfterAlgorithm><BestAll><Data>1000 1010 0000 1010 1000 0111 1010 0101 0100 0000 1001 0001    
+</Data><IsValid>True
+</IsValid><ObjectionValue>0.474500609721229
+</ObjectionValue><FitnessValue>0.474500609721229
+</FitnessValue><ProblemArguments> 5.1410546875 19.0731328125
+</ProblemArguments></BestAll><CurrentGeneration>11</CurrentGeneration><ReportEaParameters><EaWebParams xmlns='EaWebParametersSchema.xsd'><Communication><Type>EaSequential</Type><TopologyFile>Topologies/EaTopology01.xml</TopologyFile><WebService>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebService/Main.asmx</WebService><RequestId>http://www.dev1.eraserver.net/VLADOFILIPOVIC/EaWebApplication/SetApplicationParameters.aspx-cfffnzvpm2elrx45mbne0y45-BatchParameters/EaWeb01.xml-0-Parameters/F05_Shekel.xml</RequestId></Communication><Crossover><Type>CrossoverBinaryOnePoint</Type><Probability>0.95</Probability><UniformMaskProbability>0.7</UniformMaskProbability></Crossover><Emigration><Type>EmigrationBest</Type><Count>2</Count><Interval>1</Interval></Emigration><Finish><ItemsOr> FinishItemNumberOfGenerations</ItemsOr><ItemsAnd> FinishItemIdle</ItemsAnd><NumberOfGenerations>10</NumberOfGenerations><BestItemUnchangedFor>1</BestItemUnchangedFor><BestFitnessUnchangedFor>1</BestFitnessUnchangedFor><ExecutionTimeDays>0</ExecutionTimeDays><ExecutionTimeHours>0</ExecutionTimeHours><ExecutionTimeMinutes>2</ExecutionTimeMinutes><ExecutionTimeSeconds>0</ExecutionTimeSeconds><ExecutionTimeMiliseconds>0</ExecutionTimeMiliseconds></Finish><Fitness><Type>FitnessIdle</Type><Value>1000</Value><RemoveDuplicates>True</RemoveDuplicates></Fitness><Imigration><Type>ImigrationWorst</Type><Count>2</Count><Interval>1</Interval></Imigration><Init><Type>InitBinary</Type><FromXmlFile>False</FromXmlFile><XmlFile>InitDatas/EaWeb01.xml</XmlFile></Init><Instance><Type>InstanceFunctionOptimizationXmlBinary</Type></Instance><Mutation><Type>MutationBinaryOnePoint</Type><Probability>0.005</Probability></Mutation><NewGeneration><UseElitistStrategy>True</UseElitistStrategy><EliteNumber>1</EliteNumber></NewGeneration><Population><ItemType>ItemBinary</ItemType><ItemLenght>48</ItemLenght><Count>16</Count></Population><Problem><Type>ProblemFunctionOptimizationXml</Type><InputFile>Problems/F05_Shekel.xml</InputFile><UseInput>True</UseInput></Problem><RandomGenerator><Type>RandomGenIntrisic</Type><UsePredefiniedSeed>True</UsePredefiniedSeed><Seed>17</Seed></RandomGenerator><ReportItems><AA> ReportItemBestAll ReportItemCurrentGeneration ReportItemEaParameters ReportItemProblemInput ReportItemTimeInAlgorithm</AA><AI> ReportItemCurrentGeneration ReportItemDeJongOffLine ReportItemDeJongOnLine ReportItemPopulationAll ReportItemTimeInIteration</AI><ASCrossover> ReportItemIdle</ASCrossover><ASFinish> ReportItemIdle</ASFinish><ASFitness> ReportItemIdle</ASFitness><ASInstance> ReportItemIdle</ASInstance><ASMutation> ReportItemIdle</ASMutation><ASProblem> ReportItemIdle</ASProblem><ASSelection> ReportItemIdle</ASSelection><Url>Reports/F05_Shekel.xml</Url></ReportItems><Selection><Type>SelectionRoulette</Type><Probability>0.97</Probability><UseDirectlyPassed>False</UseDirectlyPassed><PassedNumber>0</PassedNumber><RankOfBest>13</RankOfBest><RankOfWorst>7</RankOfWorst><Truncation>0.8</Truncation><Exponent>0.34</Exponent><TournamentSize>3</TournamentSize><FineGrainedTournamentSize>0.7</FineGrainedTournamentSize></Selection></EaWebParams></ReportEaParameters><ProblemUseInput>True</ProblemUseInput><ProblemArgumentsXml><!--Problem definition in file Problems/F05_Shekel.xml --><EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">	<Problem>		<Description>F5 - Shekel function</Description>		<Dimension>2</Dimension>		<Interval>			<Id>0</Id>			<From>-65.536</From>			<To>65.536</To>		</Interval>		<Interval>			<Id>1</Id>			<From>-65.536</From>			<To>65.536</To>		</Interval>		<Evaluate>			<Condition>				<Domain>					<ConstantBool>						true					</ConstantBool>				</Domain>				<Expression>					<BinaryPlus>						<Constant>							0.0002						</Constant>						<Sum>							<LowLimit>								<Constant>									0								</Constant>							</LowLimit>							<HiLimit>								<Constant>									24								</Constant>							</HiLimit>							<CurIndex>								j							</CurIndex>							<Item>								<BinaryDivide>									<Constant>										1									</Constant>									<BinaryPlus>										<BinaryPlus>											<IndexValue>												j											</IndexValue>											<Constant>												1											</Constant>										</BinaryPlus>										<Sum>											<LowLimit>												<Constant>													0												</Constant>											</LowLimit>											<HiLimit>												<Constant>													1												</Constant>											</HiLimit>											<CurIndex>												i											</CurIndex>											<Item>												<Power>													<BinaryMinus>														<Argument>															<Index> i </Index>														</Argument>														<BinaryPlus>															<IndexValue>																i															</IndexValue>															<IndexValue>																j															</IndexValue>														</BinaryPlus>													</BinaryMinus>													<Constant>														6													</Constant>												</Power>											</Item>										</Sum>									</BinaryPlus>								</BinaryDivide>							</Item>						</Sum>					</BinaryPlus>				</Expression>			</Condition>		</Evaluate>	</Problem></EaProblemParameters></ProblemArgumentsXml><TimeInAlgorithm><Days>0</Days><Hours>0</Hours><Minutes>0</Minutes><Seconds>9</Seconds><Miliseconds>103</Miliseconds><Summary>00:00:09.1030896</Summary></TimeInAlgorithm></AfterAlgorithm></EaWebReport>

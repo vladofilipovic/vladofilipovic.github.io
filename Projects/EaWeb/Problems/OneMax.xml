@@ -1,0 +1,9 @@
+<!--Problem definition in file Problems/OneMax.xml -->
+<EaProblemParameters xmlns:EA="urn:vlado1/EaWebService/Parameters">
+	<Problem>
+		<Description>One-Max Optimization</Description>
+		<Evaluate>
+			One Max
+		</Evaluate>
+	</Problem>
+</EaProblemParameters>

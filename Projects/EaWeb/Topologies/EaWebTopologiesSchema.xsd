@@ -1,0 +1,52 @@
+<xsd:schema id="Topology" targetNamespace="EaWebTopologiesSchema.xsd" xmlns="EaWebTopologiesSchema.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xsd:element name="Topology" msdata:IsDataSet="true" msdata:EnforceConstraints="False">
+		<xsd:complexType>
+			<xsd:choice maxOccurs="unbounded">
+				<xsd:element name="Services">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="Service" minOccurs="0" maxOccurs="unbounded">
+								<xsd:complexType>
+									<xsd:sequence>
+										<xsd:element name="Id" type="xsd:unsignedInt" minOccurs="0" msdata:Ordinal="0" />
+										<xsd:element name="Url" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+									</xsd:sequence>
+								</xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+				<xsd:element name="UniDirectLinks">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="UniDirectLink" minOccurs="0" maxOccurs="unbounded">
+								<xsd:complexType>
+									<xsd:sequence>
+										<xsd:element name="Id" type="xsd:unsignedInt" minOccurs="0" msdata:Ordinal="0" />
+										<xsd:element name="From" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+										<xsd:element name="To" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+									</xsd:sequence>
+								</xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element> 
+				<xsd:element name="BiDirectLinks">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="BiDirectLink" minOccurs="0" maxOccurs="unbounded">
+								<xsd:complexType>
+									<xsd:sequence>
+										<xsd:element name="Id" type="xsd:unsignedInt" minOccurs="0" msdata:Ordinal="0" />
+										<xsd:element name="One" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+										<xsd:element name="Two" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+									</xsd:sequence>
+								</xsd:complexType>
+							</xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:choice>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
