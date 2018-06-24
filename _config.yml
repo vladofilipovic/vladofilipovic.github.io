@@ -1,4 +1,6 @@
-baseurl: '/vladofilipovic.github.io' 
+
+#baseurl: '/vladofilipovic.github.io' 
 
 
 theme: jekyll-theme-modernist
+
