@@ -1,0 +1,390 @@
+Mikrora?unari sa primenom u obrazovanju
+
+2011/12
+
+[Osnovna struktura ra?unarskog sistema]
+Tipovi ra?unara.
+0
+Funkcionalne jedinice kod ra?unarskog sistema. Ulazna jedinica.
+0
+Funkcionalne jedinice kod ra?unarskog sistema. Memorijska jedinica.
+0
+Funkcionalne jedinice kod ra?unarskog sistema. Aritmeti?ko-logi?ka jedinica.
+0
+Funkcionalne jedinice kod ra?unarskog sistema. Izlazna jedinica.
+0
+Funkcionalne jedinice kod ra?unarskog sistema. Kontrolna jedinica.
+0
+Osnovni koncepti operacija.
+0
+Strukture magistrala.
+0
+Softver.
+0
+Performanse ra?unarskog sistema. ?asovnik procesora.
+0
+Performanse ra?unarskog sistema. Osnovna jedna?ina o performansama.
+0
+Performanse ra?unarskog sistema. Proto?nost i superskalarne operacije.
+0
+Performanse ra?unarskog sistema. Brzina rada ?asovnika.
+0
+Performanse ra?unarskog sistema. Skupovi instrukcija: CISC i RISC.
+0
+Performanse ra?unarskog sistema. Kompajler.
+0
+Performanse ra?unarskog sistema. Merenje performansi.
+1
+Multiprocesori i multira?unari.
+1
+Istorijska perspektiva razvoja ra?unarstva. Prva generacija ra?unara.
+0
+Istorijska perspektiva razvoja ra?unarstva. Druga generacija ra?unara.
+0
+Istorijska perspektiva razvoja ra?unarstva. Tre?a generacija ra?unara.
+0
+Istorijska perspektiva razvoja ra?unarstva. ?etvrta generacija ra?unara.
+0
+Istorijska perspektiva razvoja ra?unarstva. Razvoj posle ?etvrte generacija ra?unara.
+1
+Istorijska perspektiva razvoja ra?unarstva. Evolucija performansi.
+1
+ 
+[Mašinske instrukcije i programi]
+Brojevi, aritmeti?ke operacije i znakovi.
+0
+Prekora?enje u aritmetici celih brojeva.
+0
+Znakovi.
+0
+Memorijske lokacije i adrese. Adresibilnost bajtova.
+0
+Memorijske lokacije i adrese. Big-endian i little-endian dodele.
+0
+Memorijske lokacije i adrese. Poravnanje na nivou re?i.
+0
+Pristup brojevima, znacima i nizovima znakova.
+0
+Memorijske operacije.
+0
+Instrukcije. Notacija za transfer registara.
+0
+Instrukcije. Notacija asemblerskog jezika.
+0
+Instrukcije. Osnovni tipovi instrukcija.
+0
+Instrukcije. Izvršavanje instrukcija i direktne sekvence.
+0
+Instrukcije. Grananje (skokovi).
+0
+Instrukcije. Uslovni kodovi.
+0
+Instrukcije. Generisanje memorijske adrese.
+0
+Adresni modovi. Implementacija promenljivih i konstanti.
+0
+Adresni modovi. Indirekcija i pokaziva?i.
+0
+Adresni modovi. Indeksiranje i nizovi.
+0
+Adresni modovi. Relativno adresiranje.
+0
+Adresni modovi. Dodatni adresni modovi.
+0
+Asemblerski jezik. Asemblerske direktive.
+0
+Asemblerski jezik. Asembler i izvršavanje programa.
+0
+Asemblerski jezik. Notacija za brojeve.
+0
+Osnovne ulazno/izlazne operacije.
+0
+Stekovi i redovi.
+0
+Potprogrami. Ugnjež?ivanje potprograma i stek procesora.
+0
+Potprogrami. Prosle?ivanje parametara.
+0
+Potprogrami. Stek okvir.
+0
+Dodatne instrukcije. Logi?ke instrukcije.
+0
+Dodatne instrukcije. Instrukcije pomeranja i rotacije.
+0
+Dodatne instrukcije. Instrukcije množenja i deljenja.
+0
+Primer programa. Skalarni proizvod vektora.
+0
+Primer programa. Program za sortiranje bajtova.
+0
+Primer programa. Povezane liste.
+0
+Enkodiranje mašinskih instrukcija.
+0
+
+[ARM, Motorola i Intel skupovi instrukcija]
+ARM – Struktura registara
+1
+ARM – Instrukcije za pristup memoriji i adresni modovi
+1
+ARM – Instrukcije za prenos izme?u registara.
+1
+ARM – Aritmeti?ke instrukcije.
+1
+ARM – Logi?ke instrukcije.
+1
+ARM – Instrukcije grananja i petlje.
+1
+ARM – Asemblerske pseudoinstrukcije.
+1
+ARM – Ulazno/izlazne operacije.
+1
+ARM – Potprogrami.
+1
+ARM primer programa. Skalarni proizvod vektora.
+1
+ARM primer programa. Program za sortiranje bajtova.
+1
+ARM primer programa. Povezane liste.
+1
+68000 – Struktura registara.
+1
+68000 – Adresiranje.
+1
+68000 – Instrukcije.
+1
+68000 – Asemblerski jezik.
+1
+68000 – Instrukcije grananja i petlje.
+1
+68000 – Ulazno/izlazne operacije.
+1
+68000 – Stekovi i potprogrami.
+1
+68000 – Logi?ke instrukcije.
+1
+68000 primer programa. Skalarni proizvod vektora.
+1
+68000 primer programa. Program za sortiranje bajtova.
+1
+68000 primer programa. Povezane liste.
+1
+IA32 – Struktura registara.
+0
+IA32 – Adresni modovi.
+0
+IA32 – Format mašinskih instrukcija.
+1
+IA32 – Asemblerski jezik.
+0
+IA32 – Uslovni skokovi.
+0
+IA32 – Bezuslovni skokovi.
+0
+IA32 – Logi?ke instrukcije i instrukcije pomeranja i rotacije.
+0
+IA32 – U/I operacije. Memorijski mapiran U/I, izolovan U/I i blokovski transfer.
+1
+IA32 – Potprogrami.
+0
+IA32 – Instrukcije množenja i deljenja.
+0
+IA32 – MMX instrukcije.
+1
+IA32 – Vektorske (SIMD) instrukcije.
+1
+IA32 primer programa. Skalarni proizvod vektora.
+0
+IA32 primer programa. Program za sortiranje bajtova.
+0
+IA32 primer programa. Povezane liste.
+0
+
+[Organizacija ulaza i izlaza]
+Pristup U/I ure?ajima.
+1
+Prekidi. Hardver za prekide.
+1
+Prekidi. Omogu?avanje i onemogu?avanje prekida.
+1
+Prekidi. Rukovanje sa ve?im brojem ure?aja.
+1
+Prekidi. Kontrolisanje zahteva od ure?aja.
+1
+Prekidi. Izuzetci.
+1
+Prekidi. Koriš?enje prekida kod operativnih sistema.
+1
+Prekidi. Struktura prekida kod ARM.
+1
+Prekidi. Struktura prekida kod 68000.
+1
+Prekidi. Struktura prekida kod Pentium-a.
+1
+Direktan pristup memoriji. Arbitraža magistrale.
+1
+Magistrale. Sinhronizovana magistrala.
+1
+Magistrale. Asinhrona magistrala.
+1
+Magistrale. Razmatranje magistrala.
+1
+Elektronska kola interfejsa. Paralelni port.
+1
+Elektronska kola interfejsa. Serijski port.
+1
+Standardni U/I interfejsi. PCI magistrala.
+1
+Standardni U/I interfejsi. SCSI magistrala.
+1
+Standardni U/I interfejsi. USB.
+1
+
+[Memorijski sistem]
+Osnovni pojmovi.
+1
+Poluprovodni?ki RAM. Unutrašnja organizacija memorijskih ?ipova.
+1
+Poluprovodni?ki RAM. Stati?ka memorija.
+1
+Poluprovodni?ki RAM. Asinhroni DRAM.
+1
+Poluprovodni?ki RAM. Sinhroni DRAM.
+1
+Poluprovodni?ki RAM. Struktura ve?ih memorija.
+1
+Poluprovodni?ki RAM. Razmatranja koja se odnose na memorijski sistem.
+1
+Memorije samo za ?itanje. ROM.
+1
+Memorije samo za ?itanje. PROM.
+1
+Memorije samo za ?itanje. EPROM.
+1
+Memorije samo za ?itanje. EEPROM.
+1
+Memorije samo za ?itanje. Fleš memorija.
+1
+Brzina, veli?ina i cena.
+1
+Keš memorija. Funkcije mapiranja.
+1
+Keš memorija. Algoritmi zamene.
+1
+Keš memorija. Primeri tehnika mapiranja.
+1
+Keš memorija. Primeri keširanja kod komercijalnih procesora.
+1
+Razmatranje performansi. Preplitanje.
+1
+Razmatranje performansi. Nivo pogotka i kazna za promašaj.
+1
+Razmatranje performansi. Keš implementiran na procesorskom ?ipu.
+1
+Razmatranje performansi. Ostala poboljšanja keširanja.
+1
+Virtualna memorija. Translacija adresa.
+1
+Sekundarna memorija. Magnetni diskovi.
+1
+Sekundarna memorija. Opti?ki diskovi.
+1
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+1
+
+[Logi?ka kola]
+Osnovne logi?ke funkcije.
+0
+Elektronska logi?ka kola.
+0
+Sinteza logi?kih funkcija.
+0
+Minimizacija logi?kih izraza.
+0
+Sinteza koriš?enjem NAND i NOR logi?kih kola.
+0
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+1
+Prakti?na implementacija logi?kih kola. Kašnjenje pri širenju signala.
+1
+Prakti?na implementacija logi?kih kola. Baferi sa tri stanja.
+0
+Prakti?na implementacija logi?kih kola. Paketi integralnih kola.
+1
+Flip-flopovi. Brava sa kapijom.
+0
+Flip-flopovi. Flip-flop gospodar-sluga.
+0
+Flip-flopovi. Ivica-okida?.
+0
+Flip-flopovi. T flip-flop.
+0
+Flip-flopovi. JK flip-flop.
+0
+Flip-flopovi. Flip-flop sa postavljanjem i brisanjem.
+0
+Registri i registri sa pomeranjem.
+1
+Broja?i.
+1
+Dekoderi.
+1
+Multiplekseri.
+1
+
+[Osnovna procesorska jedinica]
+Osnovni koncepti. Prenos izme?u registara.
+1
+Osnovni koncepti. Izvršavanje aritmeti?kih ili logi?kih operacija.
+1
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+2
+Osnovni koncepti. Smeštanje re?i u memoriju.
+2
+Izvršavanje kompletne instrukcije.
+2
+Izvršavanje kompletne instrukcije grananja. 
+2
+Organizacija procesorske jedinice sa više magistrala.
+1
+Oži?ena kontrola. Pregled rada procesora.
+1
+Mikroprogramska kontrola. Mikroinstrukcije.
+1
+Mikroprogramska kontrola. Sekvence kod mikroprograma.
+1
+Mikroprogramska kontrola. Adresiranje sa širokim grananjem. 
+1
+Mikroprogramska kontrola. Mikroinstrukcije sa poljem za slede?u adresu. 
+1
+Mikroprogramska kontrola. Pred-dohvatanje mikroinstrukcija. 
+1
+Mikroprogramska kontrola. Emulacija. 
+1
+
+[Proto?nost]
+Osnovni koncepti. Uloga keš memorije.
+1
+Osnovni koncepti. Performanse proto?nosti.
+1
+Rizik podataka. Prosle?ivanje operatora.
+1
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+1
+Rizik podataka. Bo?ni efekti.
+1
+Rizik instrukcija. Bezuslovni skokovi.
+1
+Rizik instrukcija. Uslovni skokovi i predvi?anja skoka.
+1
+Uticaj na skup instrukcija. Adresni modovi. 
+1
+Uticaj na skup instrukcija. Uslovni kodovi.
+1
+Razmatranja o putu podataka i kontroli.
+1
+Superskalarne operacije. Izvršavanja van redosleda.
+1
+Superskalarne operacije. Okon?avanje.
+1
+ 

@@ -1,0 +1,1400 @@
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 1
+
+Istorijska perspektiva razvoja ra?unarstva. Evolucija performansi.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 2
+
+68000 � Stekovi i potprogrami.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Izvr�avanje kompletne instrukcije.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 3
+
+Elektronska kola interfejsa. Paralelni port.
+
+Sekundarna memorija. Magnetni diskovi.
+
+Multiplekseri.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 4
+
+Prekidi. Struktura prekida kod 68000.
+
+Poluprovodni?ki RAM. Razmatranja koja se odnose na memorijski sistem.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 5
+
+68000 primer programa. Skalarni proizvod vektora.
+
+Ke� memorija. Primeri tehnika mapiranja.
+
+Multiplekseri.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 6
+
+Standardni U/I interfejsi. PCI magistrala.
+
+Memorije samo za ?itanje. EPROM.
+
+Mikroprogramska kontrola. Emulacija.
+
+Rizik instrukcija. Uslovni skokovi i predvi?anja skoka.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 7
+
+Standardni U/I interfejsi. USB.
+
+Ke� memorija. Primeri ke�iranja kod komercijalnih procesora.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Rizik instrukcija. Uslovni skokovi i predvi?anja skoka.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 8
+
+Direktan pristup memoriji. Arbitra�a magistrale.
+
+Poluprovodni?ki RAM. Sinhroni DRAM.
+
+Registri i registri sa pomeranjem.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 9
+
+68000 primer programa. Skalarni proizvod vektora.
+
+Osnovni pojmovi.
+
+Mikroprogramska kontrola. Emulacija.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 10
+
+Prekidi. Kori�?enje prekida kod operativnih sistema.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Osnovni koncepti. Prenos izme?u registara.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 11
+
+ARM primer programa. Program za sortiranje bajtova.
+
+Sekundarna memorija. Magnetni diskovi.
+
+Mikroprogramska kontrola. Pred-dohvatanje mikroinstrukcija.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 12
+
+68000 � Adresiranje.
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Mikroprogramska kontrola. Adresiranje sa �irokim grananjem.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 13
+
+68000 � Asemblerski jezik.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 14
+
+Standardni U/I interfejsi. SCSI magistrala.
+
+Razmatranje performansi. Ostala pobolj�anja ke�iranja.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 15
+
+Prekidi. Izuzetci.
+
+Memorije samo za ?itanje. Fle� memorija.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 16
+
+68000 � Struktura registara.
+
+Osnovni pojmovi.
+
+Mikroprogramska kontrola. Adresiranje sa �irokim grananjem.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 17
+
+Prekidi. Struktura prekida kod 68000.
+
+Memorije samo za ?itanje. Fle� memorija.
+
+Mikroprogramska kontrola. Pred-dohvatanje mikroinstrukcija.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 18
+
+ARM primer programa. Skalarni proizvod vektora.
+
+Memorije samo za ?itanje. EPROM.
+
+Izvr�avanje kompletne instrukcije.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 19
+
+ARM primer programa. Program za sortiranje bajtova.
+
+Virtualna memorija. Translacija adresa.
+
+Mikroprogramska kontrola. Sekvence kod mikroprograma.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 20
+
+68000 � Ulazno/izlazne operacije.
+
+Ke� memorija. Primeri tehnika mapiranja.
+
+Dekoderi.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 21
+
+Prekidi. Struktura prekida kod Pentium-a.
+
+Memorije samo za ?itanje. Fle� memorija.
+
+Registri i registri sa pomeranjem.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 22
+
+Prekidi. Rukovanje sa ve?im brojem ure?aja.
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Mikroprogramska kontrola. Sekvence kod mikroprograma.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 23
+
+68000 � Instrukcije.
+
+Poluprovodni?ki RAM. Razmatranja koja se odnose na memorijski sistem.
+
+Osnovni koncepti. Izvr�avanje aritmeti?kih ili logi?kih operacija.
+
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 24
+
+ARM primer programa. Program za sortiranje bajtova.
+
+Brzina, veli?ina i cena.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 25
+
+Istorijska perspektiva razvoja ra?unarstva. Razvoj posle ?etvrte generacija ra?unara.
+
+Poluprovodni?ki RAM. Struktura ve?ih memorija.
+
+Izvr�avanje kompletne instrukcije.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 26
+
+ARM � Instrukcije za pristup memoriji i adresni modovi
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 27
+
+68000 � Asemblerski jezik.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+O�i?ena kontrola. Pregled rada procesora.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 28
+
+Performanse ra?unarskog sistema. Merenje performansi.
+
+Ke� memorija. Algoritmi zamene.
+
+Multiplekseri.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 29
+
+ARM � Ulazno/izlazne operacije.
+
+Brzina, veli?ina i cena.
+
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 30
+
+Magistrale. Sinhronizovana magistrala.
+
+Osnovni pojmovi.
+
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 31
+
+IA32 � Vektorske (SIMD) instrukcije.
+
+Memorije samo za ?itanje. ROM.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 32
+
+Multiprocesori i multira?unari.
+
+Memorije samo za ?itanje. ROM.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 33
+
+Prekidi. Struktura prekida kod 68000.
+
+Brzina, veli?ina i cena.
+
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 34
+
+Istorijska perspektiva razvoja ra?unarstva. Razvoj posle ?etvrte generacija ra?unara.
+
+Memorije samo za ?itanje. ROM.
+
+Mikroprogramska kontrola. Mikroinstrukcije.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 35
+
+Direktan pristup memoriji. Arbitra�a magistrale.
+
+Poluprovodni?ki RAM. Asinhroni DRAM.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 36
+
+ARM primer programa. Program za sortiranje bajtova.
+
+Razmatranje performansi. Preplitanje.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 37
+
+Performanse ra?unarskog sistema. Merenje performansi.
+
+Poluprovodni?ki RAM. Struktura ve?ih memorija.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 38
+
+68000 � Logi?ke instrukcije.
+
+Poluprovodni?ki RAM. Sinhroni DRAM.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 39
+
+ARM � Instrukcije grananja i petlje.
+
+Virtualna memorija. Translacija adresa.
+
+Osnovni koncepti. Prenos izme?u registara.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 40
+
+Prekidi. Omogu?avanje i onemogu?avanje prekida.
+
+Ke� memorija. Primeri tehnika mapiranja.
+
+Mikroprogramska kontrola. Emulacija.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 41
+
+ARM � Ulazno/izlazne operacije.
+
+Sekundarna memorija. Opti?ki diskovi.
+
+Osnovni koncepti. Izvr�avanje aritmeti?kih ili logi?kih operacija.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 42
+
+IA32 � U/I operacije. Memorijski mapiran U/I, izolovan U/I i blokovski transfer.
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 43
+
+Prekidi. Izuzetci.
+
+Memorije samo za ?itanje. ROM.
+
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 44
+
+IA32 � Format ma�inskih instrukcija.
+
+Osnovni pojmovi.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 45
+
+IA32 � Vektorske (SIMD) instrukcije.
+
+Ke� memorija. Primeri tehnika mapiranja.
+
+Mikroprogramska kontrola. Emulacija.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 46
+
+ARM � Potprogrami.
+
+Razmatranje performansi. Preplitanje.
+
+Osnovni koncepti. Izvr�avanje aritmeti?kih ili logi?kih operacija.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 47
+
+Istorijska perspektiva razvoja ra?unarstva. Evolucija performansi.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 48
+
+Performanse ra?unarskog sistema. Merenje performansi.
+
+Sekundarna memorija. Opti?ki diskovi.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 49
+
+ARM � Instrukcije za prenos izme?u registara.
+
+Memorije samo za ?itanje. EPROM.
+
+O�i?ena kontrola. Pregled rada procesora.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 50
+
+68000 � Adresiranje.
+
+Poluprovodni?ki RAM. Sinhroni DRAM.
+
+Dekoderi.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 51
+
+ARM � Aritmeti?ke instrukcije.
+
+Poluprovodni?ki RAM. Stati?ka memorija.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 52
+
+ARM � Aritmeti?ke instrukcije.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 53
+
+68000 � Instrukcije grananja i petlje.
+
+Memorije samo za ?itanje. EPROM.
+
+Dekoderi.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 54
+
+Pristup U/I ure?ajima.
+
+Poluprovodni?ki RAM. Sinhroni DRAM.
+
+Mikroprogramska kontrola. Sekvence kod mikroprograma.
+
+Rizik instrukcija. Uslovni skokovi i predvi?anja skoka.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 55
+
+IA32 � MMX instrukcije.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 56
+
+Multiprocesori i multira?unari.
+
+Virtualna memorija. Translacija adresa.
+
+Mikroprogramska kontrola. Pred-dohvatanje mikroinstrukcija.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 57
+
+ARM � Asemblerske pseudoinstrukcije.
+
+Razmatranje performansi. Ostala pobolj�anja ke�iranja.
+
+Izvr�avanje kompletne instrukcije.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 58
+
+ARM primer programa. Program za sortiranje bajtova.
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Izvr�avanje kompletne instrukcije.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 59
+
+68000 � Asemblerski jezik.
+
+Osnovni pojmovi.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 60
+
+Pristup U/I ure?ajima.
+
+Poluprovodni?ki RAM. Asinhroni DRAM.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 61
+
+68000 primer programa. Skalarni proizvod vektora.
+
+Razmatranje performansi. Ostala pobolj�anja ke�iranja.
+
+Mikroprogramska kontrola. Mikroinstrukcije.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 62
+
+Prekidi. Kori�?enje prekida kod operativnih sistema.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+Izvr�avanje kompletne instrukcije.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 63
+
+68000 primer programa. Povezane liste.
+
+Poluprovodni?ki RAM. Sinhroni DRAM.
+
+Mikroprogramska kontrola. Mikroinstrukcije.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 64
+
+Prekidi. Izuzetci.
+
+Ke� memorija. Primeri tehnika mapiranja.
+
+Mikroprogramska kontrola. Pred-dohvatanje mikroinstrukcija.
+
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 65
+
+ARM � Aritmeti?ke instrukcije.
+
+Memorije samo za ?itanje. ROM.
+
+Mikroprogramska kontrola. Emulacija.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 66
+
+ARM � Instrukcije grananja i petlje.
+
+Memorije samo za ?itanje. ROM.
+
+Mikroprogramska kontrola. Adresiranje sa �irokim grananjem.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 67
+
+Prekidi. Struktura prekida kod Pentium-a.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 68
+
+IA32 � Format ma�inskih instrukcija.
+
+Ke� memorija. Primeri ke�iranja kod komercijalnih procesora.
+
+Mikroprogramska kontrola. Mikroinstrukcije sa poljem za slede?u adresu.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 69
+
+68000 � Struktura registara.
+
+Poluprovodni?ki RAM. Stati?ka memorija.
+
+Prakti?na implementacija logi?kih kola. Paketi integralnih kola.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 70
+
+
+
+Memorije samo za ?itanje. ROM.
+
+Prakti?na implementacija logi?kih kola. CMOS kolo.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 71
+
+ARM � Asemblerske pseudoinstrukcije.
+
+Ke� memorija. Algoritmi zamene.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Osnovni koncepti. Performanse proto?nosti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 72
+
+ARM primer programa. Skalarni proizvod vektora.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+O�i?ena kontrola. Pregled rada procesora.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 73
+
+
+
+Memorije samo za ?itanje. PROM.
+
+Mikroprogramska kontrola. Emulacija.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 74
+
+ARM � Logi?ke instrukcije.
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Registri i registri sa pomeranjem.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 75
+
+Standardni U/I interfejsi. PCI magistrala.
+
+Memorije samo za ?itanje. EEPROM.
+
+Mikroprogramska kontrola. Sekvence kod mikroprograma.
+
+Osnovni koncepti. Uloga ke� memorije.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 76
+
+68000 � Struktura registara.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+Osnovni koncepti. Dohvatanje re?i iz memorije.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 77
+
+ARM � Potprogrami.
+
+Memorije samo za ?itanje. PROM.
+
+Multiplekseri.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 78
+
+68000 primer programa. Program za sortiranje bajtova.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Dekoderi.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 79
+
+ARM � Potprogrami.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Registri i registri sa pomeranjem.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 80
+
+IA32 � Vektorske (SIMD) instrukcije.
+
+Razmatranje performansi. Nivo pogotka i kazna za proma�aj.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Superskalarne operacije. Izvr�avanja van redosleda.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 81
+
+Multiprocesori i multira?unari.
+
+Virtualna memorija. Translacija adresa.
+
+Izvr�avanje kompletne instrukcije.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 82
+
+Prekidi. Omogu?avanje i onemogu?avanje prekida.
+
+Ke� memorija. Funkcije mapiranja.
+
+Multiplekseri.
+
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 83
+
+Standardni U/I interfejsi. USB.
+
+Virtualna memorija. Translacija adresa.
+
+Multiplekseri.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 84
+
+68000 primer programa. Skalarni proizvod vektora.
+
+Osnovni pojmovi.
+
+Mikroprogramska kontrola. Mikroinstrukcije sa poljem za slede?u adresu.
+
+Rizik podataka. Rukovanje rizikom podataka u softveru.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 85
+
+ARM � Aritmeti?ke instrukcije.
+
+Razmatranje performansi. Ostala pobolj�anja ke�iranja.
+
+Mikroprogramska kontrola. Adresiranje sa �irokim grananjem.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 86
+
+Prekidi. Rukovanje sa ve?im brojem ure?aja.
+
+Poluprovodni?ki RAM. Stati?ka memorija.
+
+Multiplekseri.
+
+Rizik podataka. Bo?ni efekti.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 87
+
+ARM � Instrukcije za prenos izme?u registara.
+
+Poluprovodni?ki RAM. Asinhroni DRAM.
+
+Prakti?na implementacija logi?kih kola. Paketi integralnih kola.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 88
+
+Elektronska kola interfejsa. Serijski port.
+
+Brzina, veli?ina i cena.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 89
+
+68000 � Adresiranje.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+Mikroprogramska kontrola. Emulacija.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 90
+
+68000 � Ulazno/izlazne operacije.
+
+Poluprovodni?ki RAM. Struktura ve?ih memorija.
+
+Broja?i.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 91
+
+Istorijska perspektiva razvoja ra?unarstva. Evolucija performansi.
+
+Sekundarna memorija. Sistemi sa magnetnim trakama.
+
+Izvr�avanje kompletne instrukcije grananja.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 92
+
+68000 � Stekovi i potprogrami.
+
+Ke� memorija. Funkcije mapiranja.
+
+Osnovni koncepti. Izvr�avanje aritmeti?kih ili logi?kih operacija.
+
+Rizik podataka. Prosle?ivanje operatora.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 93
+
+Magistrale. Sinhronizovana magistrala.
+
+Virtualna memorija. Translacija adresa.
+
+Osnovni koncepti. Sme�tanje re?i u memoriju.
+
+Razmatranja o putu podataka i kontroli.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 94
+
+Magistrale. Razmatranje magistrala.
+
+Poluprovodni?ki RAM. Asinhroni DRAM.
+
+Registri i registri sa pomeranjem.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 95
+
+IA32 � MMX instrukcije.
+
+Poluprovodni?ki RAM. Sinhroni DRAM.
+
+Prakti?na implementacija logi?kih kola. Ka�njenje pri �irenju signala.
+
+Rizik instrukcija. Uslovni skokovi i predvi?anja skoka.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 96
+
+68000 � Ulazno/izlazne operacije.
+
+Razmatranje performansi. Ostala pobolj�anja ke�iranja.
+
+Osnovni koncepti. Izvr�avanje aritmeti?kih ili logi?kih operacija.
+
+Rizik instrukcija. Bezuslovni skokovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 97
+
+ARM � Potprogrami.
+
+Poluprovodni?ki RAM. Unutra�nja organizacija memorijskih ?ipova.
+
+Osnovni koncepti. Prenos izme?u registara.
+
+Rizik instrukcija. Uslovni skokovi i predvi?anja skoka.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 98
+
+Multiprocesori i multira?unari.
+
+Memorije samo za ?itanje. EEPROM.
+
+Mikroprogramska kontrola. Sekvence kod mikroprograma.
+
+Superskalarne operacije. Okon?avanje.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 99
+
+Pristup U/I ure?ajima.
+
+Poluprovodni?ki RAM. Asinhroni DRAM.
+
+Mikroprogramska kontrola. Adresiranje sa �irokim grananjem.
+
+Uticaj na skup instrukcija. Uslovni kodovi.
+
+
+-----------------------------------------------------------------------------
+Mikrora?unari sa primenom u obrazovanju - 2011/12
+
+19.02.2013 - 100
+
+68000 � Stekovi i potprogrami.
+
+Ke� memorija. Primeri tehnika mapiranja.
+
+Mikroprogramska kontrola. Mikroinstrukcije sa poljem za slede?u adresu.
+
+Uticaj na skup instrukcija. Adresni modovi.
+
+
+-----------------------------------------------------------------------------
