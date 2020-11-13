@@ -6,7 +6,7 @@
 		<Id>0</Id>
 		<Coeficients>
 			<a>3</a>
-			<b>5</b>
+			<strong>5</strong>
 		</Coeficients>
 		<Results>
 			<x>1.6666666666666666666666666666667</x>
@@ -16,7 +16,7 @@
 		<Id>1</Id>
 		<Coeficients>
 			<a>2</a>
-			<b>1</b>
+			<strong>1</strong>
 		</Coeficients>
 		<Results>
 			<x>0.5</x>
@@ -26,7 +26,7 @@
 		<Id>2</Id>
 		<Coeficients>
 			<a>3</a>
-			<b>2</b>
+			<strong>2</strong>
 		</Coeficients>
 		<Results>
 			<x>0.6666666666666666666666666666667</x>
@@ -36,7 +36,7 @@
 		<Id>3</Id>
 		<Coeficients>
 			<a>1</a>
-			<b>2</b>
+			<strong>2</strong>
 		</Coeficients>
 		<Results>
 			<x>2</x>
@@ -46,7 +46,7 @@
 		<Id>4</Id>
 		<Coeficients>
 			<a>1</a>
-			<b>7</b>
+			<strong>7</strong>
 		</Coeficients>
 		<Results>
 			<x>7</x>
@@ -56,7 +56,7 @@
 		<Id>5</Id>
 		<Coeficients>
 			<a>3</a>
-			<b>7</b>
+			<strong>7</strong>
 		</Coeficients>
 		<Results>
 			<x>2.3333333333333333333333333333333</x>
@@ -66,7 +66,7 @@
 		<Id>6</Id>
 		<Coeficients>
 			<a>8</a>
-			<b>7</b>
+			<strong>7</strong>
 		</Coeficients>
 		<Results>
 			<x>0.875</x>
@@ -76,7 +76,7 @@
 		<Id>7</Id>
 		<Coeficients>
 			<a>8</a>
-			<b>-7</b>
+			<strong>-7</strong>
 		</Coeficients>
 		<Results>
 			<x>-0.875</x>
@@ -86,7 +86,7 @@
 		<Id>8</Id>
 		<Coeficients>
 			<a>-8</a>
-			<b>7</b>
+			<strong>7</strong>
 		</Coeficients>
 		<Results>
 			<x>-0.875</x>
