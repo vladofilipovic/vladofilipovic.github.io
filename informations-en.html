@@ -6,23 +6,24 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121356504-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'UA-121356504-1');
     </script>
 
-    <title>Vladimir Filipović, PhD - Information</title>
+    <title>Vladimir Filipović, PhD - Informations</title>
     <meta charset='utf-8' />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="cache-control" content="no-cache" />
 
-    <link rel="alternate" type="application/rss+xml" title="RSS"
-        href="http://www.racunarstvo.matf.bg.ac.rs/novosti.rss.php?locale=sr_RS" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.racunarstvo.matf.bg.ac.rs/novosti.rss.php?locale=sr_RS" />
 
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext,cyrillic'
-        rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;subset=latin,latin-ext,cyrillic' rel='stylesheet' type='text/css'>
 
     <link rel='stylesheet' media='screen' href='/assets/styles/normalize.css' />
 
@@ -35,10 +36,8 @@
     <link rel='stylesheet' media='screen and (min-width: 760px)' href='/assets/styles/desktop-wide.css' />
     <link rel='stylesheet' media='screen and (min-width: 760px)' href='/assets/styles/sr_RS/desktop-wide.css' />
 
-    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)'
-        href='/assets/styles/mobile-landscape.css' />
-    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)'
-        href='/assets/styles/sr_RS/mobile-landscape.css' />
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='/assets/styles/mobile-landscape.css' />
+    <link rel='stylesheet' media='screen and (max-width: 759px) and (min-width: 500px)' href='/assets/styles/sr_RS/mobile-landscape.css' />
 
     <link rel='stylesheet' media='screen and (max-width: 499px)' href='/assets/styles/mobile-portrait.css' />
     <link rel='stylesheet' media='screen and (max-width: 499px)' href='/assets/styles/sr_RS/mobile-portrait.css' />
@@ -51,8 +50,8 @@
 
     <!--  Podesi klik preko opisa klase -->
     <script>
-        $(document).ready(function () {
-            $('[class^=opis]').click(function () {
+        $(document).ready(function() {
+            $('[class^=opis]').click(function() {
                 $('#toogle-' + this.className).toggle();
                 slideshow_init();
             });
@@ -63,14 +62,14 @@
     <link rel='stylesheet' media='screen' href='/assets/addons/slideshow/main.css' />
     <script src='/assets/addons/slideshow/main.js'></script>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             slideshow_init();
         });
     </script>
 
     <!-- Ucitaj delove strane -->
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             // ucitaj meni na vrhu
             $("#navigation").load("p-navigation-en.html");
             // ucitaj meni na podnozju
@@ -86,8 +85,7 @@
     <iframe src="badie.html" width="100%" height="128" border="0"></iframe>
     <![endif]-->
         <div id="matf_logo">
-            <a href="http://www.matf.bg.ac.rs" target="_blank" rel="noopener noreferrer"><img
-                    src="/assets/images/sr_RS/matf-logo.png" /></a>
+            <a href="http://www.matf.bg.ac.rs" target="_blank" rel="noopener noreferrer"><img src="/assets/images/sr_RS/matf-logo.png" /></a>
         </div>
         <div id="title">
             <h2><a href="http://www.racunarstvo.matf.bg.ac.rs/index.php"> Department for </a></h2>
@@ -103,8 +101,9 @@
             <div class="image-half-width">
                 <img src="/assets/images/vladaf02.jpg" />
             </div>
-            <h2>Information</h2>
+            <h2>Informations</h2>
             <ul>
+                <!--
                 <li>
                     <p><strong>Final results </strong> for the course <a
                             href="Info/UVIT 2016-17 - usmeni V - septembar.pdf" target="_blank"
@@ -191,7 +190,6 @@
                     </p>
                     <p />
                 </li>
-                <!--
                 <li>
                     <p><strong>Review of the examination results</strong> for the course <strong>Introduction to Web and Internet Programming</strong>                        in
                         <strong>June 1</strong> will be held on <strong>Thuersday, June 30<sup>th</sup>  2016.</strong> in
