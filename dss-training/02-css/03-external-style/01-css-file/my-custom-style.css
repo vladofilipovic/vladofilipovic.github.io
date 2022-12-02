@@ -1,0 +1,31 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: #FF2200;
+    font-size: 3em;
+}
+
+p {
+    background-color: darkgrey;
+    color: darkgreen;
+    font-size: 2em;
+}
+
+a {
+    color: blue;
+    font-size: 2em;
+}
+
+#jump-to {
+    background-color: #dfcac6;
+}
+
+.info {
+    color: aqua
+}
+
+p.info {
+    color: darkcyan
+}
